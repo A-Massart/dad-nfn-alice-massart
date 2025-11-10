@@ -77,17 +77,19 @@ Programmation d’IA et récupération de données grâce à une API
 ### Contribution à un Projet d'Autre Étudiant
 
 <span style="color:grey">// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.)</span>
-<u>07/11</u>
+
+<u>07/11 :</u>
+
 J'ai discuté avec Manon de son projet sur le 11 septembre 2001. Je lui ai recommandé l'utilisation de la VR dans son projet qui pourrait ajouter une immersion encore plus forte dans son projet.
+
 J'ai discuté avec Ahafiia de son projet de musique live coding. Je lui ai donné la référence d'*Incredibox* qui m'a paru intéressante par rapport à son envie de mêler musique traditionnelle ukrainienne et musique électronique.
-J'ai aidé Adèle à utiliser Github (les Codespaces et Github Desktop)
+
+J'ai aidé Adèle à utiliser Github (les Codespaces et Github Desktop).
+
 
 ### Contributions aux ressources
 
 Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
-
-### **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
-
 
 
 ## Planification
@@ -95,19 +97,26 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### Planning de Travail
 
 - Établissez un planning des étapes clés pour votre projet :
+  
   - **Étape 1 :**
   Entre le 7/11 et le 24/11 :
-  Définir les APIs utilisées, le langage de programmation, le prompt pour les test, le prompt définitif.
-  Réfléchir à la mise en forme du journal de bord et du repository. Créer une base code pour y correspondre.
-  Réfléchir au rendu et à l'argumentation du projet.
+    - [ ] définir les APIs utilisées
+    - [ ] le langage de programmation
+    - [ ] le prompt pour les test
+    - [ ] le prompt définitif.
+    - [ ] réfléchir à la mise en forme du journal de bord et du repository.
+    - [ ] créer une base code pour y correspondre.
+    - [ ] réfléchir au rendu et à l'argumentation du projet.
+  
   - **Étape 2 :**
   Semaine du 24/11 :
-  Ajouter l'API IA dans le code.
-  Faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
+    - [ ] ajouter l'API IA dans le code.
+    - [ ] faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
+  
   - **Étape 3 :**
   Semaine du 01/12 :
-  Finir les derniers détails.
-  Préparer le rendu et l'accrochage.
+    - [ ] finir les derniers détails.
+    - [ ] préparer le rendu et l'accrochage.
 
 
 
@@ -131,10 +140,15 @@ Du 03 au 06 novembre :
 - Complétion de la fiche pédagogique.
 - Recherche de références et d'idées de rendu.
 - Renseignement sur l'API Openai et son fonctionnement.
+
 https://platform.openai.com/docs/overview
+
 https://platform.openai.com/docs/guides/text
+
 https://platform.openai.com/docs/guides/structured-outputs?example=structured-data
 
 https://www.youtube.com/watch?v=9ZyHckE3iIo
+
 https://www.youtube.com/watch?v=fuMKrKlaku4
+
 https://www.youtube.com/watch?v=fCUkvL0mbxI
