@@ -12,7 +12,7 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à court terme et long terme si vous en avez : 
+<span style="color:grey">//Décrivez en quelques phrases vos objectifs à court terme et long terme si vous en avez.</span>
 
 Mon objectif est de travailler dans le numérique au service/en me rapprochant des sciences. J’aimerais notamment intégrer le Master Design des Mines Nancy qui allie ingénieurs et designers dans un processus créatif commun, ou un master similaire.
 Mon intérêt personnel pour l’aéronautique me donne vraiment envie de m’intégrer à ce domaine.
@@ -76,7 +76,7 @@ Programmation d’IA et récupération de données grâce à une API
 
 ### Contribution à un Projet d'Autre Étudiant
 
-// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.)
+<span style="color:grey">// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.)</span>
 <u>07/11</u>
 J'ai discuté avec Manon de son projet sur le 11 septembre 2001. Je lui ai recommandé l'utilisation de la VR dans son projet qui pourrait ajouter une immersion encore plus forte dans son projet.
 J'ai discuté avec Ahafiia de son projet de musique live coding. Je lui ai donné la référence d'*Incredibox* qui m'a paru intéressante par rapport à son envie de mêler musique traditionnelle ukrainienne et musique électronique.
@@ -113,7 +113,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 ## Commentaires et Questions
 
-//Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? :
+<span style="color:grey">//Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ?</span>
 
 Je ne sais pas du tout comment programmer une API IA et j'y pense beaucoup. J'ai à la fois très hâte d'apprendre et en même temps lorsque je me lance dans des tutoriels ou autre, je me rends compte que je ne comprends absolument rien... Je persévère 💪
 
