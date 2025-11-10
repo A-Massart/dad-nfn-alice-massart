@@ -130,3 +130,11 @@ Du 03 au 06 novembre :
 10 novembre :
 - Complétion de la fiche pédagogique.
 - Recherche de références et d'idées de rendu.
+- Renseignement sur l'API Openai et son fonctionnement.
+https://platform.openai.com/docs/overview
+https://platform.openai.com/docs/guides/text
+https://platform.openai.com/docs/guides/structured-outputs?example=structured-data
+
+https://www.youtube.com/watch?v=9ZyHckE3iIo
+https://www.youtube.com/watch?v=fuMKrKlaku4
+https://www.youtube.com/watch?v=fCUkvL0mbxI
