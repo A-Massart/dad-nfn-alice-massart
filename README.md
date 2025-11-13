@@ -6,9 +6,23 @@ Ce projet consiste à utiliser une intelligence artificielle pour personnifier l
 ## Prérequis
 - API OpenAI
 - API pour les données climatiques (Température globale de l'air, température globale des océans, niveau de la mer, taux de CO2, pollution de l'air, etc. => à définir)
+- SI RENDU WEB : modèles HTML pour transformer les fichiers .md des pages du journal en page web.
 
 
 ## Utilisation (exemples ou guide d'utilisation des fonctionnalités)
+
+Séquence type de lancement du code :
+Entre 19:00 et 19:30 (aléatoirement).
+Le code récupère les informations de l'API climat et les stocke.
+Le prompt définitif est envoyé à l'IA avec les informations climat du jour récupérées.
+Le résultat généré par l'IA est récupéré par le code sous la forme suivante :
+```
+date: "jj/mm/aaaa"
+titre: ""
+texte: ""
+```
+
+Le résultat est intégré au journal de bord avec la mise en page définie par le modèle.
 
 ### Prompt de test
 

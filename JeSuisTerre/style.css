@@ -1,0 +1,86 @@
+/* Style global */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style index.html */
+/** Style earth **/
+
+.earth{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    background: rgb(80, 174, 246);
+    border-radius: 50%;
+
+    aspect-ratio: 1 / 1;
+    height: 75vh;
+}
+
+#earth__eyes__left{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+
+    background: white;
+    border-radius: 50%;
+
+    height: 20vh;
+    aspect-ratio: 9 / 16;
+}
+
+#earth__eyes__left__pupil{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+
+    background: black;
+    border-radius: 50%;
+
+    height: 10vh;
+    aspect-ratio: 9 / 16;
+}
+
+#earth__eyes__right{
+    position: absolute;
+    top: 25%;
+    right: 25%;
+
+    background: white;
+    border-radius: 50%;
+
+    height: 20vh;
+    aspect-ratio: 9 / 16;
+}
+
+#earth__eyes__right__pupil{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+
+    background: black;
+    border-radius: 50%;
+
+    height: 10vh;
+    aspect-ratio: 9 / 16;
+}
+
+#earth__mouth{
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    
+    border: solid black 5px;
+    border-radius: 25%;
+}

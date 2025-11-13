@@ -138,8 +138,9 @@ Du 03 au 06 novembre :
 
 10 novembre :
 - Complétion de la fiche pédagogique.
-- Recherche de références et d'idées de rendu.
 - Renseignement sur l'API Openai et son fonctionnement.
+
+https://robinmoretti.eu/comment-creer-un-chatbot-avec-lapi-openai-non-securise-pour-la-production-part-1/
 
 https://platform.openai.com/docs/overview
 
@@ -152,3 +153,8 @@ https://www.youtube.com/watch?v=9ZyHckE3iIo
 https://www.youtube.com/watch?v=fuMKrKlaku4
 
 https://www.youtube.com/watch?v=fCUkvL0mbxI
+
+- Recherche de références et d'idées de rendu.
+
+Idée de rendu :
+Site Web avec une planète Terre en style dessin. Lorsque cliquée, elle raconte son ressenti du jour. Une petite flèche mène à une autre page qui elle représente le journal de bord comme un livre numérique.
