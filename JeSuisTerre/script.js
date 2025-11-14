@@ -3,7 +3,11 @@
 const earth = document.querySelector('.earth');
 const leftPupil = document.getElementById('earth__eyes__left__pupil');
 const rightPupil = document.getElementById('earth__eyes__right__pupil');
+const mouth = document.getElementById('earth__mouth');
+const leftEyeEl = document.getElementById('earth__eyes__left');
+const rightEyeEl = document.getElementById('earth__eyes__right');
 let isMovingPupils = true;
+let isHoveringEye = false;
 
 // Fonction pour réinitialiser les pupilles au centre
 function resetPupils() {
@@ -14,7 +18,18 @@ function resetPupils() {
 // Au survol de .earth, les pupilles se remettent au centre
 earth.addEventListener('mouseenter', () => {
     resetPupils();
+    earth.style.cursor = 'pointer';
 });
+
+// Quand on survole un oeil, on arrête le suivi de la souris et on recentre la pupille
+if (leftEyeEl) {
+    leftEyeEl.addEventListener('mouseenter', () => { isHoveringEye = true; resetPupils(); });
+    leftEyeEl.addEventListener('mouseleave', () => { isHoveringEye = false; });
+}
+if (rightEyeEl) {
+    rightEyeEl.addEventListener('mouseenter', () => { isHoveringEye = true; resetPupils(); });
+    rightEyeEl.addEventListener('mouseleave', () => { isHoveringEye = false; });
+}
 
 // Fonction pour lire le texte avec la Web Speech API
 // Version simple : teste les fichiers journaux des derniers N jours
@@ -69,8 +84,12 @@ async function readLatestJournal() {
 
         if (!content) { console.warn('Aucun contenu à lire dans', found); return; }
 
-        const utt = new SpeechSynthesisUtterance(content);
-        utt.lang = 'fr-FR'; utt.rate = 1; utt.pitch = 1;
+    const utt = new SpeechSynthesisUtterance(content);
+    utt.lang = 'fr-FR'; utt.rate = 1; utt.pitch = 1;
+
+    // Animer la bouche pendant la lecture
+    utt.onstart = () => { try { mouth.classList.add('speaking'); } catch (e) {} };
+    utt.onend = utt.onerror = () => { try { mouth.classList.remove('speaking'); } catch (e) {} };
 
         function speakWithVoice() {
             const voices = window.speechSynthesis.getVoices();
@@ -102,8 +121,8 @@ earth.addEventListener('click', () => {
 });
 
 document.addEventListener('mousemove', (e) => {
-    // Si le mouvement des pupilles est désactivé, on ne fait rien
-    if (!isMovingPupils) return;
+    // Si le mouvement des pupilles est désactivé ou si on survole un oeil, on ne fait rien
+    if (!isMovingPupils || isHoveringEye) return;
     
     const leftEye = document.getElementById('earth__eyes__left');
     const rightEye = document.getElementById('earth__eyes__right');
