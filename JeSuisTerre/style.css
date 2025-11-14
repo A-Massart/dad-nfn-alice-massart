@@ -23,9 +23,12 @@ html, body {
     justify-content: flex-start;
     align-items: flex-start;
 
-    background: rgb(80, 174, 246);
-    border-radius: 50%;
+    background-image: url("src/img/earth_skin.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
+    border-radius: 50%;
     aspect-ratio: 1 / 1;
     width: 75vw;
     max-width: 600px;
