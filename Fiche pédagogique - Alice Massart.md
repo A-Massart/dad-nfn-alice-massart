@@ -78,7 +78,7 @@ Programmation d’IA et récupération de données grâce à une API
 
 <span style="color:grey">// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.)</span>
 
-<u>07/11 :</u>
+#### 07/11 :
 
 J'ai discuté avec Manon de son projet sur le 11 septembre 2001. Je lui ai recommandé l'utilisation de la VR dans son projet qui pourrait ajouter une immersion encore plus forte dans son projet.
 
@@ -129,32 +129,47 @@ Je ne sais pas du tout comment programmer une API IA et j'y pense beaucoup. J'ai
 
 # Journal de bord
 
-Du 03 au 06 novembre :
+### Du lundi 03 au jeudi 06 novembre :
 - Réflexion sur les idées de projet et les objectifs.
 
-07 novembre :
+### Vendredi 07 novembre :
 - Définition du projet, des objectifs, des outils et du plan.
 - Recherches et essais d'utilisation des API (Openai, Global Warming, OpenMeteo)
 
-10 novembre :
+### Lundi 10 novembre :
 - Complétion de la fiche pédagogique.
 - Renseignement sur l'API Openai et son fonctionnement.
 
-https://robinmoretti.eu/comment-creer-un-chatbot-avec-lapi-openai-non-securise-pour-la-production-part-1/
+[Comment créer un chatbot avec l'API Openai non-sécurisée pour la production - partie 1](https://robinmoretti.eu/comment-creer-un-chatbot-avec-lapi-openai-non-securise-pour-la-production-part-1/)
 
-https://platform.openai.com/docs/overview
+Doc Openai :
 
-https://platform.openai.com/docs/guides/text
+- https://platform.openai.com/docs/overview
 
-https://platform.openai.com/docs/guides/structured-outputs?example=structured-data
+- https://platform.openai.com/docs/guides/text
 
-https://www.youtube.com/watch?v=9ZyHckE3iIo
+- https://platform.openai.com/docs/guides/structured-outputs?example=structured-data
 
-https://www.youtube.com/watch?v=fuMKrKlaku4
+[OpenAI API Masterclass: Platform, Models & API Explained (Part 1/5)](https://www.youtube.com/watch?v=9ZyHckE3iIo)
 
-https://www.youtube.com/watch?v=fCUkvL0mbxI
+[OpenAI Structured Output - All You Need to Know](https://www.youtube.com/watch?v=fuMKrKlaku4)
+
+[Former votre propre modèle d'IA n'est pas aussi difficile que vous le pensez (probablement)](https://www.youtube.com/watch?v=fCUkvL0mbxI)
 
 - Recherche de références et d'idées de rendu.
 
 Idée de rendu :
 Site Web avec une planète Terre en style dessin. Lorsque cliquée, elle raconte son ressenti du jour. Une petite flèche mène à une autre page qui elle représente le journal de bord comme un livre numérique.
+
+### Du mardi 11 au vendredi 14 novembre :
+Maquette Figma interactive du rendu web.  
+Programmation d'un premier essai du rendu web.
+
+### Dimanche 23 novembre :
+- Renseignement sur l'API Openai et son fonctionnement.
+
+Grâce à Perplexity.ai :
+[Utiliser l'API Openai sur un ordinateur externe](<documentation/Semaine du 24 novembre/utiliser-api-openai-sur-un-ordinateur-externe.md>)
+[Tutos intéressants pour configurer l'API Openai](<documentation/Semaine du 24 novembre/ tutos-intéressants-pour-configurer-api-openai.md>)
+
+[OpenAI with Python: A Step-by-Step Guide for Beginners](https://www.youtube.com/watch?v=-A7njXsJl5M)
