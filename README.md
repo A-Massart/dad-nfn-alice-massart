@@ -5,8 +5,8 @@ Ce projet consiste à utiliser une intelligence artificielle pour personnifier l
 
 ## Prérequis
 - API OpenAI
-- API pour les données climatiques (Température globale de l'air, température globale des océans, niveau de la mer, taux de CO2, pollution de l'air, etc. => à définir)
-- SI RENDU WEB : modèles HTML pour transformer les fichiers .md des pages du journal en page web.
+- [API Global Warming](https://global-warming.org/) pour les données climatiques (Température globale de l'air, température globale des océans, niveau de la mer, taux de CO2, pollution de l'air, etc.)
+- RENDU WEB : HTML, CSS, JS (et Jekyll pour transformer md en html ?).
 
 
 ## Utilisation (exemples ou guide d'utilisation des fonctionnalités)

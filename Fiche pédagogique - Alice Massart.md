@@ -100,18 +100,19 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   
   - **Étape 1 :**
   Entre le 7/11 et le 24/11 :
-    - [ ] définir les APIs utilisées
-    - [ ] le langage de programmation
-    - [ ] le prompt pour les test
-    - [ ] le prompt définitif.
-    - [ ] réfléchir à la mise en forme du journal de bord et du repository.
+    - [X] définir les APIs utilisées
+    - [X] le langage de programmation
+    - ~~[ ] le prompt pour les test~~
+    - [X] le premier prompt définitif.
+    - [X] réfléchir à la mise en forme du journal de bord et du repository.
     - [ ] créer une base code pour y correspondre.
     - [ ] réfléchir au rendu et à l'argumentation du projet.
   
   - **Étape 2 :**
   Semaine du 24/11 :
-    - [ ] ajouter l'API IA dans le code.
+    - [ ] programmer les APIs.
     - [ ] faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
+    - [ ] faire des tests avec plusieurs prompts différents.
   
   - **Étape 3 :**
   Semaine du 01/12 :
@@ -173,3 +174,4 @@ Grâce à Perplexity.ai :
 [Tutos intéressants pour configurer l'API Openai](<documentation/Semaine du 24 novembre/ tutos-intéressants-pour-configurer-api-openai.md>)
 
 [OpenAI with Python: A Step-by-Step Guide for Beginners](https://www.youtube.com/watch?v=-A7njXsJl5M)
+
