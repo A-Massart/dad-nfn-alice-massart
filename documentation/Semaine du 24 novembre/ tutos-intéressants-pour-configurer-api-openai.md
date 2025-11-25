@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Super merci. Et aurais-tu des tutos intéressants pour configurer cette API en la codant pour qu'elle fasse ce que je veux ? En l'occurence générer du texte et l'exporte en fichier md dans un dossier précis.
+# Aurais-tu des tutos intéressants pour configurer l'API Openai en la codant pour qu'elle fasse ce que je veux ? En l'occurence générer du texte et l'exporter en fichier .md dans un dossier précis.
 
 Pour configurer un script Python qui appelle l'API OpenAI, génère du texte puis l’exporte au format Markdown dans un dossier précis, il existe plusieurs tutoriels et exemples faciles à adapter.
 

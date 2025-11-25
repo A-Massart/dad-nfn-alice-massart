@@ -64,11 +64,11 @@ Programmation d’IA et récupération de données grâce à une API
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
-*Le Livre Infini*, Albertine MEUNIER (2016)
-*Sphere at The Venetian Resort Las Vegas*, 	Cabinet d'architecture Populous etSeverud Associates (2023)
-*ClimarisQ*, réalisé par Opal Games, conçu par Davide Faranda, proposé par LSCE – CNRS – CEA – IPSL – Université Paris Saclay – Universcience (2022)
-
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**  
+  - *Le Livre Infini*, Albertine MEUNIER (2016)  
+  - *Sphere at The Venetian Resort Las Vegas*, 	Cabinet d'architecture Populous etSeverud Associates (2023)  
+  - *ClimarisQ*, réalisé par Opal Games, conçu par Davide Faranda, proposé par LSCE – CNRS – CEA – IPSL – Université Paris Saclay – Universcience (2022)  
+  - [Moodboard Pinterest](https://pin.it/43FP2UxdK)
 
 
 
@@ -175,3 +175,5 @@ Grâce à Perplexity.ai :
 
 [OpenAI with Python: A Step-by-Step Guide for Beginners](https://www.youtube.com/watch?v=-A7njXsJl5M)
 
+### Lundi 24 novembre :
+- J'ai trouvé un lien intéressant pour mon rendu html : [How to make a page flipping book in HTML](https://fliphtml5.com/learning-center/fr/how-to-make-a-page-flipping-book-in-html/)
