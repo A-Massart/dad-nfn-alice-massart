@@ -1,0 +1,46 @@
+/***** FONTS *****/
+@font-face {
+    font-family: "PicNic";
+    src: url("src/fonts/PicNic-Regular.otf")
+}
+@font-face {
+    font-family: "Burn";
+    src: url("src/fonts/Burn.otf")
+}
+@font-face {
+    font-family: "Melting";
+    src: url("src/fonts/Melting.otf")
+}
+@font-face {
+    font-family: "Frijole";
+    src: url("src/fonts/Frijole-Regular.ttf")
+}
+@font-face {
+    font-family: "Rubik";
+    src: url("src/fonts/RubikStorm-Regular.ttf")
+}
+@font-face {
+    font-family: "Assassin";
+    src: url("src/fonts/Assassin-Nation.ttf")
+}
+@font-face {
+    font-family: "Sedgwick";
+    src: url("src/fonts/SedgwickAveDisplay-Regular.ttf")
+}
+@font-face {
+    font-family: "Starstruck";
+    src: url("src/fonts/Starstruck.ttf")
+}
+
+
+@font-face {
+    font-family: "Avenir-Next";
+    src: url("src/fonts/Avenir-Next.ttf")
+}
+/***** GENERAL *****/
+body div{
+    margin: 0 10%;
+    line-height: 18pt;
+    font-size: 12pt;
+    font-family: Avenir-Next;
+}

@@ -19,14 +19,24 @@ Mon intérêt personnel pour l’aéronautique me donne vraiment envie de m’in
 
 ### Compétences
 
-**CODING**
-Je suis à l’aise en HTML, CSS et je commence à l’être avec JavaScript. J’utilise aussi Python pour me créer des outils simples ou pour du code créatif.
+**CODE CRÉATIF**  
+Je suis à l’aise en HTML, CSS et je commence à l’être avec JavaScript (je comprends le langage mais j'ai du mal à l'écrire). J’utilise aussi Python pour me créer des outils simples ou pour du code créatif.
 
-**GIT ET VERSIONNING**
-- Évaluation personnelle du 4/11/2025 :
-Robin, Julien et Alexandre m'ont appris les bases l'année dernière. Mon père m’a permis d’approfondir l'outil car il le connaît très bien. Je suis donc plutôt à l'aise avec les outils simples de GitHub notamment les codespaces. Il me reste encore beaucoup de choses à apprendre à ce sujet.
+[JeSuisTerre__generative-art](JeSuisTerre/JeSuisTerre__generative-art)  
 
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL**
+J'ai fait du code créatif en python :
+[JeSuisTerre__generative-art/python](JeSuisTerre/JeSuisTerre__generative-art/python)  
+et en Javascript pour interagir avec un texte et le modifier en direct : [JeSuisTerre__generative-art/javascript](JeSuisTerre/JeSuisTerre__generative-art/javascript)
+
+
+**GIT ET VERSIONNING**  
+Je suis plutôt à l'aise avec les outils simples de GitHub notamment le github pages, les codespaces, github desktop et les commits.
+![Images git et versionning](documentation/img_fiche-pédagogique/git-et-versionning.png)
+
+**INTERACTIVITÉ ET RENDU TEMPS RÉEL**  
+Les codes créatifs python et javascript analysent interagissent en temps réel avec le texte quotidien de l'IA.
+Ils analysent les textes pour en tirer des mots clés.
+Le code python transforme ces mots-clés en formes tandis que le code javascript modifie la typographie de ces mots.
 
 **GRAPHISME ET DESIGN D'INTERFACE**
 
@@ -163,8 +173,9 @@ Idée de rendu :
 Site Web avec une planète Terre en style dessin. Lorsque cliquée, elle raconte son ressenti du jour. Une petite flèche mène à une autre page qui elle représente le journal de bord comme un livre numérique.
 
 ### Du mardi 11 au vendredi 14 novembre :
-Maquette Figma interactive du rendu web.  
-Programmation d'un premier essai du rendu web.
+Maquette Figma interactive du premier rendu web.  
+Programmation d'un premier essai du rendu web.  
+[Maquette Figma](documentation/maquette/JeSuisTerre_maquette_v1.fig)
 
 ### Dimanche 23 novembre :
 - Renseignement sur l'API Openai et son fonctionnement.
@@ -177,3 +188,9 @@ Grâce à Perplexity.ai :
 
 ### Lundi 24 novembre :
 - J'ai trouvé un lien intéressant pour mon rendu html : [How to make a page flipping book in HTML](https://fliphtml5.com/learning-center/fr/how-to-make-a-page-flipping-book-in-html/)
+
+- J'ai tout repris depuis le début sur conseil de Robin. Je me suis installée au bureau pour le reste de la journée à chercher des références graphisque et faire des tests de rendu visuels.
+[Moodboard Pinterest](<documentation/Semaine du 24 novembre/lundi 24 nov/MoodboardPinterest.mhtml>)
+
+### Mardi 25 novembre :
+- J'ai continué les recherches graphiques.
