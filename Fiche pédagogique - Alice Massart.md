@@ -96,7 +96,7 @@ J'ai discuté avec Ahafiia de son projet de musique live coding. Je lui ai donn�
 
 J'ai aidé Adèle à utiliser Github (les Codespaces et configurer Github Desktop).
 
-Naya m'a donné des conseils sur l'esthétique de mes visuels. En cours de dessin, j'utilisais de la peinture, elle m'a donc conseillée d'essayer des tâches d'aquarelle au lieu des formes numériques bien dessinées.
+Naya m'a donné des conseils sur l'esthétique de mes visuels. En cours de dessin, j'utilisais de la peinture, elle m'a donc conseillée d'essayer des tâches d'aquarelle au lieu des formes numériques bien dessinées.  
 [Essai de rendu aquarelle](<documentation/Semaine du 24 novembre/vendredi 28 nov/journal-de-bord_generative-art_test-aquarelle.jpg>)
 
 

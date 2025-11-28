@@ -1,0 +1,18 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+canvas[resize]{
+    width: 90%;
+    height: 90%;
+}
+
+button{
+    position: fixed;
+    top: 100px;
+    right: 25px;;
+    width: 50px;
+    height: 20px;
+    background-color: bisque;
+}

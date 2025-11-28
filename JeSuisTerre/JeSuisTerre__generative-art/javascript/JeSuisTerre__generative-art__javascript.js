@@ -7,7 +7,7 @@ const motsClesGroups = [
     { mots: ["anomalie", "anormal"], style: "font-family: Rubik;" },
     { mots: ["gémi"], style: "font-family: Assassin;" },
     { mots: ["inquièt", "inquiét", "inquiet"], style: "font-family: Sedgwick;" },
-    { mots: ["espoir"], style: "font-family: Starstruck;" },
+    { mots: ["espoir"], style: "font-family: Starstruck;, background-color : white" },
 ];
 
 // 2️⃣ Créer un objet plat pour lookup rapide
