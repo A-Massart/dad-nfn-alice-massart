@@ -74,7 +74,7 @@ Programmation d’IA et récupération de données grâce à une API
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**  
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.)&nbsp;‡:**  
   - *Le Livre Infini*, Albertine MEUNIER (2016)  
   - *Sphere at The Venetian Resort Las Vegas*, 	Cabinet d'architecture Populous etSeverud Associates (2023)  
   - *ClimarisQ*, réalisé par Opal Games, conçu par Davide Faranda, proposé par LSCE – CNRS – CEA – IPSL – Université Paris Saclay – Universcience (2022)  
@@ -94,7 +94,10 @@ J'ai discuté avec Manon de son projet sur le 11 septembre 2001. Je lui ai recom
 
 J'ai discuté avec Ahafiia de son projet de musique live coding. Je lui ai donné la référence d'*Incredibox* qui m'a paru intéressante par rapport à son envie de mêler musique traditionnelle ukrainienne et musique électronique.
 
-J'ai aidé Adèle à utiliser Github (les Codespaces et Github Desktop).
+J'ai aidé Adèle à utiliser Github (les Codespaces et configurer Github Desktop).
+
+Naya m'a donné des conseils sur l'esthétique de mes visuels. En cours de dessin, j'utilisais de la peinture, elle m'a donc conseillée d'essayer des tâches d'aquarelle au lieu des formes numériques bien dessinées.
+[Essai de rendu aquarelle](<documentation/Semaine du 24 novembre/vendredi 28 nov/journal-de-bord_generative-art_test-aquarelle.jpg>)
 
 
 ### Contributions aux ressources
@@ -194,3 +197,7 @@ Grâce à Perplexity.ai :
 
 ### Mardi 25 novembre :
 - J'ai continué les recherches graphiques.
+Essais avec un code python pour les formes.
+Essais avec Javascript pour modifier directement le texte (changer la police des mots).
+Je vais me renseigner sur Tkinter pour peut-être mêler les 2 ?
+[Tutoriel Tkinter - interface graphique python](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel)
