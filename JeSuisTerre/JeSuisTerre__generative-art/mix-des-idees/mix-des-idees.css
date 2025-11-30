@@ -1,0 +1,75 @@
+/***********************************************
+
+* mix-des-idees.css
+* * Fonts
+* * General styles
+* * Canvas layout
+    ***********************************************/
+
+/***** FONTS *****/
+@font-face {
+font-family: "PicNic";
+src: url("fonts/PicNic-Regular.otf");
+}
+@font-face {
+font-family: "Burn";
+src: url("fonts/Burn.otf");
+}
+@font-face {
+font-family: "Melting";
+src: url("fonts/Melting.otf");
+}
+@font-face {
+font-family: "Frijole";
+src: url("fonts/Frijole-Regular.ttf");
+}
+@font-face {
+font-family: "Rubik";
+src: url("fonts/RubikStorm-Regular.ttf");
+}
+@font-face {
+font-family: "Assassin";
+src: url("fonts/Assassin-Nation.ttf");
+}
+@font-face {
+font-family: "Sedgwick";
+src: url("fonts/SedgwickAveDisplay-Regular.ttf");
+}
+@font-face {
+font-family: "Starstruck";
+src: url("fonts/Starstruck.ttf");
+}
+@font-face {
+font-family: "Avenir-Next";
+src: url("fonts/Avenir-Next.ttf");
+}
+
+/***** GENERAL STYLES *****/
+body {
+z-index: 1;
+margin: 0;
+padding: 0;
+font-family: "Avenir-Next", sans-serif;
+}
+
+body div {
+margin: 0 10%;
+line-height: 1.5em;
+font-size: 12pt;
+}
+
+/***** CANVAS STYLES *****/
+#myCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Permet de cliquer à travers le canvas */
+    z-index: -1; /* Au-dessus du texte */
+}
+
+#resultat_html {
+    position: relative;
+    z-index: 5; /* Entre le body et le canvas */
+}
