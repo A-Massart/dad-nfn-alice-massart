@@ -27,6 +27,7 @@ motsClesGroups.forEach(group => {
 
 let motsAvecFormes = [];
 let canvasActif = false;
+let scratchesIndependants = [];
 
 function colorierTexte(texte) {
   motsAvecFormes = [];
@@ -243,7 +244,7 @@ function creerVague(x, y, width) {
 }
 
 function creerGriffure(x, y, width, height) {
-  const scratch_size = 300;
+  const scratch_size = 100 + Math.random() * (300 - 100);
   const start = new paper.Point(x, y);
   const end = new paper.Point(x - scratch_size, y + (scratch_size/2));
   
@@ -253,17 +254,17 @@ function creerGriffure(x, y, width, height) {
     opacity: 1
   });
   
-  path.data = {
+  const scratchObj = {
+    path: path,
     start: start,
     end: end,
     progress: 0,
     fading: false,
     drawDuration: 0.5,
-    fadeDuration: 5,
-    nextScratchTimer: 0,
-    nextScratchDelay: Math.random() * (3 - 0.2) + 0.2,
-    hasDrawn: false
+    fadeDuration: 5
   };
+  
+  scratchesIndependants.push(scratchObj);
   
   return path;
 }
@@ -350,7 +351,32 @@ function creerPulse(x, y, width, height) {
 // ---------------------------
 // 5️⃣ Animation des formes
 // ---------------------------
+function animerScratchesIndependants(event) {
+  scratchesIndependants = scratchesIndependants.filter(scratch => {
+    if (!scratch.fading) {
+      scratch.progress += event.delta / scratch.drawDuration;
+      if (scratch.progress >= 1) {
+        scratch.progress = 1;
+        scratch.fading = true;
+      }
+      const current = scratch.start.add(scratch.end.subtract(scratch.start).multiply(scratch.progress));
+      scratch.path.removeSegments();
+      scratch.path.add(scratch.start);
+      scratch.path.add(current);
+    } else {
+      scratch.path.opacity -= event.delta / scratch.fadeDuration;
+      if (scratch.path.opacity <= 0) {
+        scratch.path.remove();
+        return false;
+      }
+    }
+    return true;
+  });
+}
+
 function animerFormesSupMots(event) {
+  animerScratchesIndependants(event);
+  
   formesSupMots.forEach(item => {
     item.time += event.delta;
     item.frameCounter++;
@@ -371,42 +397,6 @@ function animerFormesSupMots(event) {
         break;
         
       case "scratch":
-        const s = item.shape.data;
-        const path = item.shape;
-        
-        if (!s.hasDrawn) {
-          if (!s.fading) {
-            s.progress += event.delta / s.drawDuration;
-            if (s.progress >= 1) {
-              s.progress = 1;
-              s.fading = true;
-            }
-            const current = s.start.add(s.end.subtract(s.start).multiply(s.progress));
-            path.removeSegments();
-            path.add(s.start);
-            path.add(current);
-          } else {
-            path.opacity -= event.delta / s.fadeDuration;
-            if (path.opacity <= 0) {
-              path.opacity = 0;
-              s.hasDrawn = true;
-              s.nextScratchDelay = Math.random() * (3 - 0.2) + 0.2;
-              s.nextScratchTimer = 0;
-            }
-          }
-        } else {
-          s.nextScratchTimer += event.delta;
-          if (s.nextScratchTimer >= s.nextScratchDelay) {
-            s.progress = 0;
-            s.fading = false;
-            path.opacity = 1;
-            s.hasDrawn = false;
-            const offsetX = (Math.random() - 0.5) * 100;
-            const offsetY = (Math.random() - 0.5) * 100;
-            s.start = new paper.Point(item.baseX + offsetX, item.baseY + offsetY);
-            s.end = new paper.Point(s.start.x - 300, s.start.y + 150);
-          }
-        }
         break;
         
       case "snake":
@@ -463,3 +453,34 @@ window.addEventListener('scroll', () => {
     placerFormesSupMots();
   }
 });
+
+// Créer des scratches indépendants toutes les 3 secondes
+setInterval(() => {
+  if (canvasActif && formesSupMots.length > 0) {
+    const canvas = document.getElementById('myCanvas');
+    const canvasRect = canvas.getBoundingClientRect();
+    
+    const x = canvasRect.left + Math.random() * canvasRect.width;
+    const y = canvasRect.top + Math.random() * canvasRect.height;
+    
+    const scratch_size = 100 + Math.random() * (300 - 100);
+    const start = new paper.Point(x, y);
+    const end = new paper.Point(x - scratch_size, y + (scratch_size/2));
+    
+    const path = new paper.Path({
+      strokeColor: 'brown',
+      strokeWidth: 10,
+      opacity: 1
+    });
+    
+    scratchesIndependants.push({
+      path: path,
+      start: start,
+      end: end,
+      progress: 0,
+      fading: false,
+      drawDuration: 0.5,
+      fadeDuration: 5
+    });
+  }
+}, 3000);
