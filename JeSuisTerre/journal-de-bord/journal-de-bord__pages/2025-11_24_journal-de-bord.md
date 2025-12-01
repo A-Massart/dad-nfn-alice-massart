@@ -1,6 +1,3 @@
-```
-généré par l'IA Chatgpt 5.1
-```
 24 novembre 2025 — Un souffle trop chaud
 
 Cher journal,

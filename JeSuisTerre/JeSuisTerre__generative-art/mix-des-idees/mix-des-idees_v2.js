@@ -250,7 +250,7 @@ function creerGriffure(x, y, width, height) {
   
   const path = new paper.Path({
     strokeColor: 'brown',
-    strokeWidth: 10,
+    strokeWidth: 5,
     opacity: 1
   });
   
@@ -373,6 +373,37 @@ function animerScratchesIndependants(event) {
     return true;
   });
 }
+// Créer des scratches indépendants toutes les 3 secondes
+setInterval(() => {
+  if (canvasActif && formesSupMots.length > 0) {
+    const canvas = document.getElementById('myCanvas');
+    const canvasRect = canvas.getBoundingClientRect();
+    
+    const x = canvasRect.left + Math.random() * canvasRect.width;
+    const y = canvasRect.top + Math.random() * canvasRect.height;
+    
+    const scratch_size = 100 + Math.random() * (300 - 100);
+    const start = new paper.Point(x, y);
+    const end = new paper.Point(x - scratch_size, y + (scratch_size/2));
+    
+    const path = new paper.Path({
+      strokeColor: 'brown',
+      strokeWidth: 5,
+      opacity: 1
+    });
+    
+    scratchesIndependants.push({
+      path: path,
+      start: start,
+      end: end,
+      progress: 0,
+      fading: false,
+      drawDuration: 0.5,
+      fadeDuration: 5
+    });
+  }
+}, 3000);
+
 
 function animerFormesSupMots(event) {
   animerScratchesIndependants(event);
@@ -453,34 +484,3 @@ window.addEventListener('scroll', () => {
     placerFormesSupMots();
   }
 });
-
-// Créer des scratches indépendants toutes les 3 secondes
-setInterval(() => {
-  if (canvasActif && formesSupMots.length > 0) {
-    const canvas = document.getElementById('myCanvas');
-    const canvasRect = canvas.getBoundingClientRect();
-    
-    const x = canvasRect.left + Math.random() * canvasRect.width;
-    const y = canvasRect.top + Math.random() * canvasRect.height;
-    
-    const scratch_size = 100 + Math.random() * (300 - 100);
-    const start = new paper.Point(x, y);
-    const end = new paper.Point(x - scratch_size, y + (scratch_size/2));
-    
-    const path = new paper.Path({
-      strokeColor: 'brown',
-      strokeWidth: 10,
-      opacity: 1
-    });
-    
-    scratchesIndependants.push({
-      path: path,
-      start: start,
-      end: end,
-      progress: 0,
-      fading: false,
-      drawDuration: 0.5,
-      fadeDuration: 5
-    });
-  }
-}, 3000);

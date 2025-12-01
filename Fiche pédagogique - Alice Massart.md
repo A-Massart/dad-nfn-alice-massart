@@ -184,10 +184,9 @@ Programmation d'un premier essai du rendu web.
 ### Dimanche 23 novembre :
 - Renseignement sur l'API Openai et son fonctionnement.
 
-Grâce à Perplexity.ai :
-[Utiliser l'API Openai sur un ordinateur externe](<documentation/Semaine du 24 novembre/utiliser-api-openai-sur-un-ordinateur-externe.md>)
-[Tutos intéressants pour configurer l'API Openai](<documentation/Semaine du 24 novembre/ tutos-intéressants-pour-configurer-api-openai.md>)
-
+Grâce à Perplexity.ai :  
+[Utiliser l'API Openai sur un ordinateur externe](<documentation/Semaine du 24 novembre/utiliser-api-openai-sur-un-ordinateur-externe.md>)  
+[Tutos intéressants pour configurer l'API Openai](<documentation/Semaine du 24 novembre/ tutos-intéressants-pour-configurer-api-openai.md>)  
 [OpenAI with Python: A Step-by-Step Guide for Beginners](https://www.youtube.com/watch?v=-A7njXsJl5M)
 
 ### Lundi 24 novembre :

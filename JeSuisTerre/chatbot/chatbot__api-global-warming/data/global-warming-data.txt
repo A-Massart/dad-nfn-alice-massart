@@ -1,34 +1,34 @@
-# Données Global Warming - 2025-12-01
+Données Global Warming - 2025-12-01
 
-*Dernière mise à jour: 01/12/2025 10:53:03*
+Dernière mise à jour: 01/12/2025 14:43:57
 
+============================================================
+
+CO₂
 ---
 
-## CO₂
-
-```json
 {
   "year": "2025",
   "month": "11",
-  "day": "29",
-  "cycle": "427.01",
+  "day": "30",
+  "cycle": "427.05",
   "trend": "426.66"
 }
-```
 
-## Température
 
-```json
+Température
+-----------
+
 {
   "time": "2025.79",
   "station": "1.71",
   "land": "1.22"
 }
-```
 
-## Méthane
 
-```json
+Méthane
+-------
+
 {
   "date": "2025.7",
   "average": "1927.61",
@@ -36,11 +36,11 @@
   "averageUnc": "-9.99",
   "trendUnc": "-9.99"
 }
-```
 
-## Protoxyde d'azote
 
-```json
+Protoxyde d'azote
+-----------------
+
 {
   "date": "2025.7",
   "average": "338.79",
@@ -48,11 +48,11 @@
   "averageUnc": "-9.99",
   "trendUnc": "-9.99"
 }
-```
 
-## Niveau de la mer
 
-```json
+Niveau de la mer
+----------------
+
 {
   "date": "202510",
   "value": 23.28,
@@ -67,5 +67,5 @@
     "missing": -9999
   }
 }
-```
+
 

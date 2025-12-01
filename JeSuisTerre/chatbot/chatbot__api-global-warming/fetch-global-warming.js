@@ -1,10 +1,10 @@
-const fs = require('fs').promises;
-const path = require('path');
-const https = require('https');
+import { promises as fs } from 'fs';
+import path from 'path';
+import https from 'https';
 
 // Configuration
 const OUTPUT_DIR = '/Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data';
-const OUTPUT_FILE = 'global-warming-data.md';
+const OUTPUT_FILE = 'global-warming-data.txt';
 
 const endpoints = [
     { name: 'CO₂', url: 'https://global-warming.org/api/co2-api' },
@@ -112,43 +112,44 @@ async function fetchAllData() {
     return collectedData;
 }
 
-// Fonction pour générer le Markdown
-function generateMarkdown(data) {
+// Fonction pour générer le texte
+function generateText(data) {
     const today = new Date().toISOString().split('T')[0];
     const timestamp = new Date().toLocaleString('fr-FR');
     
-    let markdown = `# Données Global Warming - ${today}\n\n`;
-    markdown += `*Dernière mise à jour: ${timestamp}*\n\n`;
-    markdown += `---\n\n`;
+    let text = `Données Global Warming - ${today}\n\n`;
+    text += `Dernière mise à jour: ${timestamp}\n\n`;
+    text += `${'='.repeat(60)}\n\n`;
     
     for (const [name, content] of Object.entries(data)) {
-        markdown += `## ${name}\n\n`;
+        text += `${name}\n`;
+        text += `${'-'.repeat(name.length)}\n\n`;
         
         if (content.error) {
-            markdown += `⚠️ **Erreur**: ${content.error}\n\n`;
+            text += `⚠️ Erreur: ${content.error}\n\n`;
             if (content.raw) {
-                markdown += '```json\n';
-                markdown += JSON.stringify(content.raw, null, 2);
-                markdown += '\n```\n\n';
+                text += JSON.stringify(content.raw, null, 2);
+                text += '\n\n';
             }
         } else {
-            markdown += '```json\n';
-            markdown += JSON.stringify(content, null, 2);
-            markdown += '\n```\n\n';
+            text += JSON.stringify(content, null, 2);
+            text += '\n\n';
         }
+        
+        text += '\n';
     }
     
-    return markdown;
+    return text;
 }
 
 // Fonction pour sauvegarder le fichier
-async function saveMarkdown(markdown) {
+async function saveText(text) {
     try {
         // Vérifier si le dossier existe, sinon le créer
         await fs.mkdir(OUTPUT_DIR, { recursive: true });
         
         const filePath = path.join(OUTPUT_DIR, OUTPUT_FILE);
-        await fs.writeFile(filePath, markdown, 'utf8');
+        await fs.writeFile(filePath, text, 'utf8');
         
         console.log(`\n💾 Fichier sauvegardé: ${filePath}`);
         return filePath;
@@ -178,11 +179,11 @@ async function main() {
         // Récupérer les données
         const data = await fetchAllData();
         
-        // Générer le Markdown
-        const markdown = generateMarkdown(data);
+        // Générer le texte
+        const text = generateText(data);
         
         // Sauvegarder les fichiers
-        await saveMarkdown(markdown);
+        await saveText(text);
         await saveJSON(data);
         
         const duration = ((Date.now() - startTime) / 1000).toFixed(2);
