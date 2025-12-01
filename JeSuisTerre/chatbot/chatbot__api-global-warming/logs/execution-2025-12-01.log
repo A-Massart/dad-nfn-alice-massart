@@ -142,3 +142,51 @@ Début d'exécution: Mon Dec  1 10:50:00 CET 2025
 ✨ Terminé en 2.83s
 ✅ Exécution réussie: Mon Dec  1 10:50:04 CET 2025
 
+========================================
+Début d'exécution: Mon Dec  1 10:51:00 CET 2025
+========================================
+🌍 Récupération des données Global Warming API...
+
+📡 Récupération de CO₂...
+✅ CO₂ - Succès
+📡 Récupération de Température...
+✅ Température - Succès
+📡 Récupération de Méthane...
+✅ Méthane - Succès
+📡 Récupération de Protoxyde d'azote...
+✅ Protoxyde d'azote - Succès
+📡 Récupération de Niveau de la mer...
+✅ Niveau de la mer - Succès
+
+📊 Résultat: 5/5 endpoints récupérés
+
+💾 Fichier sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.md
+💾 Fichier JSON sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.json
+
+✨ Terminé en 2.88s
+✅ Exécution réussie: Mon Dec  1 10:51:03 CET 2025
+
+========================================
+Début d'exécution: Mon Dec  1 10:53:00 CET 2025
+========================================
+🌍 Récupération des données Global Warming API...
+
+📡 Récupération de CO₂...
+✅ CO₂ - Succès
+📡 Récupération de Température...
+✅ Température - Succès
+📡 Récupération de Méthane...
+✅ Méthane - Succès
+📡 Récupération de Protoxyde d'azote...
+✅ Protoxyde d'azote - Succès
+📡 Récupération de Niveau de la mer...
+✅ Niveau de la mer - Succès
+
+📊 Résultat: 5/5 endpoints récupérés
+
+💾 Fichier sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.md
+💾 Fichier JSON sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.json
+
+✨ Terminé en 2.93s
+✅ Exécution réussie: Mon Dec  1 10:53:03 CET 2025
+

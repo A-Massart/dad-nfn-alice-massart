@@ -27,10 +27,11 @@ Le résultat est intégré au journal de bord avec la mise en page définie par 
 crontab -e
 ```
 
-La ligne suivante est insérée dans cron
+La ligne suivante est insérée dans cron.
+(le cron de mon mac : vim)
 
 ```
-
+0 19 * * * /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/chatbot__api-global-warming__script.sh >> /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/logs/cron.log 2>&1
 ```
 
 Et les réglages sur l'ordinateur sont effectués de façon à faire fonctionner cron.
