@@ -41,7 +41,11 @@ async function generateJournal() {
       journalContent = response.choices[0].message.content;
     } else {
       // Sinon, contenu simulé pour tester localement
-      journalContent = `"Simulation : contenu du journal ici. La clé OpenAI n'est pas définie."
+      journalContent = `La clé OpenAI n'est pas définie.
+
+Informations du prompt quotidien :
+
+${promptContent}
 
 Les données du jour :
 ${dataContent}

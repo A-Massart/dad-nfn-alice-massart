@@ -9,12 +9,12 @@
 // ---------------------------
 const motsClesGroups = [
   { mots: ["chaleur", "chaud", "fondre"], style: "font-family: PicNic;", forme: "wave" },
-  { mots: ["fièvre", "brûl"], style: "font-family: Burn;", forme: "circle" },
+  { mots: ["fièvre", "brûl", "température"], style: "font-family: Burn;", forme: "circle" },
   { mots: ["lourd", "fatigué", "poids", "faibl", "fragil"], style: "font-family: Frijole;" },
-  { mots: ["anomalie", "anormal", "silence"], style: "font-family: Rubik;" },
+  { mots: ["anomalie", "anormal", "silence", "ombr"], style: "font-family: Rubik;" },
   { mots: ["gémi", "satur", "bless"], style: "font-family: Assassin;", forme: "scratch" },
   { mots: ["inquièt", "inquiét", "inquiet", "triste", "las"], style: "font-family: Sedgwick;", forme: "snake" },
-  { mots: ["espoir", "joie", "joy", "lucid"], style: "font-family: Starstruck; background-color: white;", forme: "pulse" },
+  { mots: ["espoir", "joie", "joy", "lucid", "vivre"], style: "font-family: Starstruck; background-color: white;", forme: "pulse" },
 ];
 
 
@@ -217,13 +217,13 @@ function placerFormesSupMots() {
 // ---------------------------
 
 function creerVague(x, y, width) {
-  const waveAmount = 20;
-  const waveHeight = 7;
-  const waveWidth = 200;
+  const waveAmount = 30;
+  const waveHeight = 10;
+  const waveWidth = 500;
   
   const wavePath = new paper.Path({
     strokeColor: "orange",
-    strokeWidth: 2,
+    strokeWidth: 5,
     strokeCap: 'square'
   });
   
@@ -250,7 +250,7 @@ function creerGriffure(x, y, width, height) {
   
   const path = new paper.Path({
     strokeColor: 'brown',
-    strokeWidth: 5,
+    strokeWidth: (Math.random() * (4 - 2) + 2) * 2,
     opacity: 1
   });
   
@@ -260,7 +260,7 @@ function creerGriffure(x, y, width, height) {
     end: end,
     progress: 0,
     fading: false,
-    drawDuration: 0.5,
+    drawDuration: Math.random() * (0.5 - 0.01) + 0.01,
     fadeDuration: 5
   };
   
@@ -274,9 +274,9 @@ function creerSnake(x, y, width) {
   snakePath.strokeColor = '#2a9dc7';
   snakePath.strokeWidth = 3;
   
-  const amount = 10;
-  const boxSize = 50;
-  const stepSize = 15;
+  const amount = 25;
+  const boxSize = 500;
+  const stepSize = 150;
   
   for (let i = 0; i < amount; i++) {
     const px = x + Math.random() * boxSize - boxSize / 2;
@@ -297,19 +297,19 @@ function creerSnake(x, y, width) {
 }
 
 function creerCercles(x, y, radius) {
-  const radiusFixe = 100;
+  const radiusFixe = Math.random(3000 - 2000) + 2000;
   const circlePaths = [];
   for (let i = 1; i <= 5; i++) {
     const c = new paper.Path.Circle({
       center: [x, y],
-      radius: radiusFixe * (i/5),
+      radius: radiusFixe * (i/10),
     });
     circlePaths.push(c);
   }
   const group = new paper.Group(circlePaths);
   group.style = {
     strokeColor: 'red',
-    dashArray: [2, 7],
+    dashArray: [10, 7],
     strokeWidth: 4,
     strokeCap: 'round'
   };
@@ -326,7 +326,7 @@ function creerPulse(x, y, width, height) {
     new paper.Point(x, y + lineLength)
   ]);
   verticalLine.strokeColor = common_stroke_color;
-  verticalLine.strokeWidth = 20;
+  verticalLine.strokeWidth = 50;
   
   const horizontalLine = new paper.Path([
     new paper.Point(x - lineLength, y),
@@ -337,9 +337,9 @@ function creerPulse(x, y, width, height) {
   
   const group = new paper.Group([verticalLine, horizontalLine]);
   group.data = {
-    minWidth: 20,
-    maxWidth: 30,
-    speed: 0.2,
+    minWidth: 30,
+    maxWidth: 50,
+    speed: 1,
     increasing: true,
     vLine: verticalLine,
     hLine: horizontalLine
@@ -382,7 +382,7 @@ setInterval(() => {
     const x = canvasRect.left + Math.random() * canvasRect.width;
     const y = canvasRect.top + Math.random() * canvasRect.height;
     
-    const scratch_size = 100 + Math.random() * (300 - 100);
+    const scratch_size = Math.random() * (300 - 100) + 100;
     const start = new paper.Point(x, y);
     const end = new paper.Point(x - scratch_size, y + (scratch_size/2));
     
@@ -402,7 +402,7 @@ setInterval(() => {
       fadeDuration: 5
     });
   }
-}, 3000);
+}, Math.random() * (3000 - 1000) + 1000);
 
 
 function animerFormesSupMots(event) {

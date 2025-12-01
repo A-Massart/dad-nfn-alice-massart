@@ -211,4 +211,7 @@ puis [les formes ensemble](JeSuisTerre/JeSuisTerre__generative-art/paperjs/index
 ![Formes ensemble paperjs](<documentation/Semaine du 24 novembre/vendredi 28 nov/essai-paperjs-ensemble.png>)
 
 puis les [formes associées aux mots dans le texte](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees) !
-![Formes + Texte => page du journal du 24/11](<documentation/Semiane du 01 décembre/paperjs_journal-24-11.png>)
+![Formes + Texte => page du journal du 24/11](<documentation/Semaine du 24 novembre/vendredi 28 nov/paperjs_journal-24-11.png>)
+
+
+### Lundi 01 décembre :

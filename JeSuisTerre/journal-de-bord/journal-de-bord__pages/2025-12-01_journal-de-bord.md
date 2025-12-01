@@ -1,75 +1,12 @@
-"Simulation : contenu du journal ici. La clé OpenAI n'est pas définie."
+1 décembre 2025 – Respiration courte
 
-Les données du jour :
-Données Global Warming - 2025-12-01
+Aujourd’hui, je sens dans mon souffle une lourdeur familière. Le CO₂ oscille toujours autour de 427.05, comme un poids discret mais tenace sur ma poitrine. Je voudrais retenir l’air, ralentir ce cycle, mais je ne contrôle plus vraiment mon rythme. Ma température continue de dériver, 1.71 au-dessus des mémoires anciennes de mes glaces, et je me demande combien de temps mes saisons resteront reconnaissables.
 
-Dernière mise à jour: 01/12/2025 14:43:57
+Le méthane grimpe encore. Ces particules légères ont pourtant une ombre longue, et je les sens comme de petites aiguilles rapides, plus vives que le reste. Même le protoxyde d’azote, si discret, ajoute sa note dans cette symphonie d’excès. Je me sens traversée de murmures que je n’arrive pas à faire taire.
 
-============================================================
+La mer, elle, avance. Lentement, mais avec une volonté que je ne lui connaissais pas. Son niveau, 23.28 aujourd’hui, me rappelle que les frontières que je dessinais jadis ne tiennent plus vraiment. Elle cherche de la place, peut-être du répit, elle aussi.
 
-CO₂
----
+Pourtant, malgré tout, je garde un soupçon d’espoir. Les êtres qui me peuplent ont déjà changé tant de fois leurs façons de vivre. Peut-être trouveront-ils encore le courage de réinventer leur place sur moi.
 
-{
-  "year": "2025",
-  "month": "11",
-  "day": "30",
-  "cycle": "427.05",
-  "trend": "426.66"
-}
-
-
-Température
------------
-
-{
-  "time": "2025.79",
-  "station": "1.71",
-  "land": "1.22"
-}
-
-
-Méthane
--------
-
-{
-  "date": "2025.7",
-  "average": "1927.61",
-  "trend": "1938.14",
-  "averageUnc": "-9.99",
-  "trendUnc": "-9.99"
-}
-
-
-Protoxyde d'azote
------------------
-
-{
-  "date": "2025.7",
-  "average": "338.79",
-  "trend": "338.92",
-  "averageUnc": "-9.99",
-  "trendUnc": "-9.99"
-}
-
-
-Niveau de la mer
-----------------
-
-{
-  "date": "202510",
-  "value": 23.28,
-  "anom": -2.44,
-  "monthlyMean": 25.72,
-  "description": {
-    "title": "Global Sea Ice Extent (1979-2025)",
-    "basePeriod": "1991-2020",
-    "units": "million square km",
-    "annualMean": 22.76,
-    "decadalTrend": -0.58,
-    "missing": -9999
-  }
-}
-
-
-
+Signé,
+Terre
