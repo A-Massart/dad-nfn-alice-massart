@@ -1,6 +1,75 @@
----
-date: 2025-12-01
-tags: [journal, terre, quotidien]
+"Simulation : contenu du journal ici. La clé OpenAI n'est pas définie."
+
+Les données du jour :
+Données Global Warming - 2025-12-01
+
+Dernière mise à jour: 01/12/2025 14:43:57
+
+============================================================
+
+CO₂
 ---
 
-Simulation : contenu du journal ici. La clé OpenAI n'est pas définie.
+{
+  "year": "2025",
+  "month": "11",
+  "day": "30",
+  "cycle": "427.05",
+  "trend": "426.66"
+}
+
+
+Température
+-----------
+
+{
+  "time": "2025.79",
+  "station": "1.71",
+  "land": "1.22"
+}
+
+
+Méthane
+-------
+
+{
+  "date": "2025.7",
+  "average": "1927.61",
+  "trend": "1938.14",
+  "averageUnc": "-9.99",
+  "trendUnc": "-9.99"
+}
+
+
+Protoxyde d'azote
+-----------------
+
+{
+  "date": "2025.7",
+  "average": "338.79",
+  "trend": "338.92",
+  "averageUnc": "-9.99",
+  "trendUnc": "-9.99"
+}
+
+
+Niveau de la mer
+----------------
+
+{
+  "date": "202510",
+  "value": 23.28,
+  "anom": -2.44,
+  "monthlyMean": 25.72,
+  "description": {
+    "title": "Global Sea Ice Extent (1979-2025)",
+    "basePeriod": "1991-2020",
+    "units": "million square km",
+    "annualMean": 22.76,
+    "decadalTrend": -0.58,
+    "missing": -9999
+  }
+}
+
+
+

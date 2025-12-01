@@ -41,16 +41,15 @@ async function generateJournal() {
       journalContent = response.choices[0].message.content;
     } else {
       // Sinon, contenu simulé pour tester localement
-      journalContent = "Simulation : contenu du journal ici. La clé OpenAI n'est pas définie.";
-    }
+      journalContent = `"Simulation : contenu du journal ici. La clé OpenAI n'est pas définie."
 
-    const markdownContent = `---
-date: ${dateStr}
-tags: [journal, terre, quotidien]
----
-
-${journalContent}
+Les données du jour :
+${dataContent}
 `;
+
+}
+
+    const markdownContent = `${journalContent}`;
 
     await fs.writeFile(filePath, markdownContent, 'utf-8');
     console.log(`Fichier généré : ${filePath} [OK]`);

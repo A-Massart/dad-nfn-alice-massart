@@ -12,10 +12,10 @@ Ce projet consiste à utiliser une intelligence artificielle pour personnifier l
 ## Utilisation (exemples ou guide d'utilisation des fonctionnalités)
 
 Séquence type de lancement du code :
-À 19:00.
+À 00:00.
 Le code récupère les informations de l'API climat et les stocke.
 Le prompt définitif est envoyé à l'IA avec les informations climat du jour récupérées.
-Le résultat généré par l'IA est récupéré par le code dans un fichier Markdown.
+Le résultat généré par l'IA est récupéré par le code dans un fichier Texte.
 
 Le résultat est intégré au journal de bord avec la mise en page définie par le modèle.
 
@@ -31,7 +31,12 @@ La ligne suivante est insérée dans cron.
 (le cron de mon mac : vim)
 
 ```
-0 19 * * * /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/chatbot__api-global-warming__script.sh >> /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/logs/cron.log 2>&1
+0 0 * * * /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/chatbot__api-global-warming__script.sh >> /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/logs/cron.log 2>&1
+```
+
+Envoie automatique de la requête avec l'API Openai.
+```
+10 0 * * * /usr/local/bin/node /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/src/main.js
 ```
 
 Et les réglages sur l'ordinateur sont effectués de façon à faire fonctionner cron.
