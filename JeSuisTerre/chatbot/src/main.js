@@ -1,11 +1,13 @@
-import './style.css'
+// import './style.css'
 
 import 'dotenv/config';
 import fs from 'fs/promises';
 import path from 'path';
 import OpenAI from 'openai';
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const openai = process.env.OPENAI_API_KEY
+  ? new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+  : null;
 
 async function generateJournal() {
   try {
@@ -20,14 +22,27 @@ async function generateJournal() {
 
     await fs.mkdir(folderPath, { recursive: true });
 
-    const prompt = "prompt.txt";
+    const promptContent = await fs.readFile('./prompt.txt', 'utf8');
+    const dataContent = await fs.readFile(
+      '/Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.txt',
+      'utf8'
+    );
+    const prompt = promptContent + dataContent;
+    console.log("Prompt importé : \n" + prompt);
 
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
-      messages: [{ role: 'user', content: prompt }],
-    });
+    let journalContent;
 
-    const journalContent = response.choices[0].message.content;
+    if (openai) {
+      // Si la clé existe, utiliser l'API OpenAI
+      const response = await openai.chat.completions.create({
+        model: 'gpt-4o-mini',
+        messages: [{ role: 'user', content: prompt }],
+      });
+      journalContent = response.choices[0].message.content;
+    } else {
+      // Sinon, contenu simulé pour tester localement
+      journalContent = "Simulation : contenu du journal ici. La clé OpenAI n'est pas définie.";
+    }
 
     const markdownContent = `---
 date: ${dateStr}
