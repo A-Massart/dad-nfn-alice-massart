@@ -1,6 +1,6 @@
 # Données Global Warming - 2025-12-01
 
-*Dernière mise à jour: 01/12/2025 09:53:35*
+*Dernière mise à jour: 01/12/2025 10:50:03*
 
 ---
 
