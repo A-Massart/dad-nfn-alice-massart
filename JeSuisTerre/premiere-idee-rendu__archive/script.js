@@ -43,7 +43,7 @@ async function readLatestJournal() {
         const year = d.getFullYear();
         const month = String(d.getMonth() + 1).padStart(2, '0');
         const day = String(d.getDate()).padStart(2, '0');
-        const name = `journal-de-bord/${year}-${month}_${day}_journal-de-bord.md`;
+        const name = `../journal-de-bord/${year}-${month}_${day}_journal-de-bord.md`;
         try {
             const resp = await fetch(name, { method: 'HEAD' });
             if (resp.ok) { found = name; break; }

@@ -99,6 +99,9 @@ J'ai aidé Adèle à utiliser Github (les Codespaces et configurer Github Deskto
 Naya m'a donné des conseils sur l'esthétique de mes visuels. En cours de dessin, j'utilisais de la peinture, elle m'a donc conseillée d'essayer des tâches d'aquarelle au lieu des formes numériques bien dessinées.  
 [Essai de rendu aquarelle](<documentation/Semaine du 24 novembre/vendredi 28 nov/journal-de-bord_generative-art_test-aquarelle.jpg>)
 
+En discutant avec Suyeon j'ai vu que son labyrinthe dans Unity n'était pas en un seul morceau mais en dizaines et dizaines de morceaux ce qui ne devait pas être pratique du tout pour travailler ! En me renseignant un peu de mon côté sur Unity je suis tombée sur un lien que je lui ai envoyé pour faire un export propre de son blender.  
+[Aide pour Suyeon](documentation/img_fiche-pédagogique/aide-suyeon.png)
+
 
 ### Contributions aux ressources
 
@@ -112,23 +115,21 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - Établissez un planning des étapes clés pour votre projet :
   
   - **Étape 1 :**
-  Entre le 7/11 et le 24/11 :
     - [X] définir les APIs utilisées
     - [X] le langage de programmation
     - ~~[ ] le prompt pour les test~~
     - [X] le premier prompt définitif.
     - [X] réfléchir à la mise en forme du journal de bord et du repository.
-    - [ ] créer une base code pour y correspondre.
-    - [ ] réfléchir au rendu et à l'argumentation du projet.
+    - [X] créer une base code pour y correspondre.
   
   - **Étape 2 :**
-  Semaine du 24/11 :
     - [ ] programmer les APIs.
-    - [ ] faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
+    - [X] faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
     - [ ] faire des tests avec plusieurs prompts différents.
+    - [ ] réfléchir au rendu et à l'argumentation du projet.
+
   
   - **Étape 3 :**
-  Semaine du 01/12 :
     - [ ] finir les derniers détails.
     - [ ] préparer le rendu et l'accrochage.
 
@@ -199,5 +200,16 @@ Grâce à Perplexity.ai :
 - J'ai continué les recherches graphiques.
 Essais avec un code python pour les formes.
 Essais avec Javascript pour modifier directement le texte (changer la police des mots).
-Je vais me renseigner sur Tkinter pour peut-être mêler les 2 ?
+Je vais me renseigner sur Tkinter pour peut-être mêler les 2 ?  
 [Tutoriel Tkinter - interface graphique python](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel)
+
+### Vendredi 28 novembre et weekend :
+Sur recommandation de Robin, je me suis renseignée sur Paper.js.
+J'ai commencé par des [formes animées dans des fichiers séparés](JeSuisTerre/JeSuisTerre__generative-art/paperjs)
+![Cercle rouge paperjs](<documentation/Semaine du 24 novembre/vendredi 28 nov/essai-paperjs-separe.png>)
+
+puis [les formes ensemble](JeSuisTerre/JeSuisTerre__generative-art/paperjs/index_paperjs.html)
+![Formes ensemble paperjs](<documentation/Semaine du 24 novembre/vendredi 28 nov/essai-paperjs-ensemble.png>)
+
+puis les [formes associées aux mots dans le texte](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees) !
+![Formes + Texte => page du journal du 24/11](<documentation/Semiane du 01 décembre/paperjs_journal-24-11.png>)
