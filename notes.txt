@@ -5,3 +5,7 @@ UTE, Lea Schönfelder
 Phone ... ? -> jeu où on voit l'exploitation pour la construction des Iphones
 molleindustrie
 pippin barr
+
+
+lien pour entrer un texte manuellement :
+https://a-massart.github.io/dad-nfn-alice-massart/JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/index.html
