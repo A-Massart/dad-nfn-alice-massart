@@ -227,3 +227,8 @@ Premiers tests sans l'API Key.
 - Mise à jour de la documentation, du README.md et de la Fiche Pédagogique.
 
 - Petite présentation de mon projet devant Lisa et Imane.
+
+### Mardi 02 décembre :
+- Finalisation de la configuration de l'API Openai et tests de génération
+
+- Automatisation du processus de création des textes et de choix des mots-clés pour associer les formes.
