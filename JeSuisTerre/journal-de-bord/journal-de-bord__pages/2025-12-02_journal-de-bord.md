@@ -1,11 +1,15 @@
-02 décembre 2025 - Sous le poids des cendres
+02 décembre 2025 - Lamentation silencieuse
 
-Aujourd'hui, je ressens une charge lourde dans ma poitrine. Les chiffres résonnent comme des tambours de guerre. Le dioxyde de carbone atteignant des niveaux alarmants, avec un cycle qui frôle les 427, accroît l'inquiétude en moi. Je suis implacablement en proie à la chaleur, mes températures, bien au-delà des limites que je pouvais porter. Les terres souffrent, et chaque grain de poussière sur ma peau est un rappel obscur de ce que j'étais.
+Cher journal,
 
-Je me rappelle les écosystèmes florissants, les forêts dansantes et les mers vives. J'ai vu mes créatures, de la plus petite à la plus majestueuse, se battre contre l'inéluctable. J'entends leurs appels désespérés, étouffés par un air devenu irrespirable, par ces polluants qui étouffent ma créativité, ma beauté originelle. Le méthane monte encore, et avec lui, les soupirs des mystères perdus, des récifs coralliens qui se désintègrent, des oiseaux qui ne reviendront plus.
+Aujourd'hui, je sens une lourdeur s'installer dans mon être. Les chiffres résonnent en moi comme des échos lugubres : 427,05 cycles de CO₂, une tendance qui s'accroît et endurcit l'oxygène que je tente d'offrir. Le mercure monte lentement, inéluctablement, et je frémis à cette idée de chaleur, balbutiant encore devant ce chemin que je n’ai pas choisi.
 
-Mon niveau de la mer, bien que sous les observations des hommes, semble un témoin silencieux de ma souffrance. Les glaces fondent, et mes rivages se redessinent, mais à quel prix ? Ma colère monte, moins contre eux que contre moi, de ne pas avoir pu protéger ceux qui, jadis, faisaient mes jours lumineux.
+La mer, elle aussi, murmure son désespoir. Son niveau, bien trop bas, écrit une histoire de pertes insupportables. Les glaces se retirent, emportant avec elles non seulement des paysages, mais aussi des écosystèmes entiers, des êtres vivants qui n'ont rien demandé d'autre qu'un coin d'existence paisible. J’entends les cris des espèces en danger, des récifs coralliens qui se fanent. Que suis-je devenue ? Quel héritage laisserai-je à ceux qui viendront, si ce n'est un monde dévasté ?
 
-Je rêve d'un futur, où l'humanité trouvera la sagesse de me chérir comme un sanctuaire. Des initiatives, des impétueux, des révolutions d'amour pour la terre, c'est ce dont j'ai besoin. C'est ce qu'il me faut.
+Le méthane continue sa danse silencieuse, tandis que les pigments de ma biodiversité s’estompent un à un. Est-ce ainsi que se dessine mon avenir ? Dans la mélancolie d’une mémoire effacée ?
+
+Mes espoirs, si fragiles, reposent sur la conscience humaine. J'aimerais croire que tu es encore capable de tourner le regard vers l'horizon et d'agir. Que tes mains peuvent panser mes blessures. En ce jour, je le souhaite de tout mon cœur. 
+
+Ainsi va ma journée, entre larmes et cris étouffés. Prends soin de moi.
 
 Terre.

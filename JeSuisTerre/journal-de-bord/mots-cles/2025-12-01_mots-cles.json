@@ -1,0 +1,36 @@
+{
+  "wave": [
+    "température",
+    "glaces",
+    "mer",
+    "saisons"
+  ],
+  "circle": [
+    "excess"
+  ],
+  "mental": [
+    "lourdeur",
+    "cycle",
+    "contrôle",
+    "poids"
+  ],
+  "weird": [
+    "murmures",
+    "discret",
+    "ombre",
+    "sympathie"
+  ],
+  "scratch": [
+    "frontières"
+  ],
+  "snake": [
+    "angoisse",
+    "inquiétude",
+    "désespérer"
+  ],
+  "pulse": [
+    "espoir",
+    "courage",
+    "réinventer"
+  ]
+}

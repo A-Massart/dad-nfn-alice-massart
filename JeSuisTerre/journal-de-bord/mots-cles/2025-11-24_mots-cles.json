@@ -1,0 +1,44 @@
+{
+  "wave": [
+    "chaleur",
+    "chaud",
+    "fondre"
+  ],
+  "circle": [
+    "fièvre",
+    "brûl",
+    "température"
+  ],
+  "mental": [
+  "lourd",
+  "fatigué",
+  "poids",
+  "faibl",
+  "fragil"
+  ],
+  "weird": [
+    "anomalie",
+    "anormal",
+    "silence",
+    "ombr"
+  ],
+  "scratch": [
+    "gémi", 
+    "satur", 
+    "bless"
+  ],
+  "snake": [
+    "inquièt",
+    "inquiét",
+    "inquiet",
+    "triste",
+    "las"
+  ],
+  "pulse": [
+    "espoir",
+    "joie",
+    "joy",
+    "lucid",
+    "vivre"
+  ]
+}

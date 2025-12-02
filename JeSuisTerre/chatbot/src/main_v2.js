@@ -70,9 +70,84 @@ ${dataContent}
     await fs.writeFile(filePath, journalContent, 'utf-8');
     console.log(`Fichier généré : ${filePath} [OK]`);
 
+    return journalContent;
   } catch (error) {
     console.error('Erreur lors de la génération du journal :', error);
+    return null;
   }
 }
 
-generateJournal();
+async function generateKeywords(journalContent) {
+  if (!journalContent) return null;
+
+  let motsClesIA = null;
+
+  if (openai) {
+    try {
+      const analyseResponse = await openai.chat.completions.create({
+        model: 'gpt-4o-mini',
+        messages: [
+          {
+            role: 'system',
+            content: `
+Tu vas recevoir un texte de journal intime. 
+Analyse TOUT le texte et retourne uniquement un JSON contenant 7 catégories de mots.
+
+Les catégories attendues :
+1. Rapport à la chaleur : "wave"
+2. Rapport à la brûlure : "circle"
+3. Charge mentale : "mental"
+4. Inhabituel : "weird"
+5. Blessure / perte de contrôle : "scratch"
+6. Angoisse / stress / tristesse : "snake"
+7. Bonheur / espoir : "pulse"
+
+Maximum 10 mots par catégorie et minimum 1, mots présents dans le texte.
+Retourne uniquement le JSON.
+`
+          },
+          { role: 'user', content: journalContent }
+        ]
+      });
+
+      // Nettoyer le contenu pour enlever les ```json ou ``` éventuels
+      let rawContent = analyseResponse.choices[0].message.content.trim();
+      rawContent = rawContent.replace(/^```json/, '').replace(/^```/, '').replace(/```$/g, '').trim();
+
+      motsClesIA = JSON.parse(rawContent);
+
+    } catch (e) {
+      console.error("Échec parsing mots-clés IA :", e);
+    }
+  }
+
+  // === Sauvegarde dans fichier JSON daté ===
+  const today = new Date();
+  const yyyy = today.getFullYear();
+  const mm = String(today.getMonth() + 1).padStart(2, '0');
+  const dd = String(today.getDate()).padStart(2, '0');
+  const dateStr = `${yyyy}-${mm}-${dd}`;
+
+  const keywordsFolder = path.join(
+    '/Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/journal-de-bord/',
+    'mots-cles'
+  );
+  await fs.mkdir(keywordsFolder, { recursive: true });
+
+  const datedFilePath = path.join(keywordsFolder, `${dateStr}_mots-cles.json`);
+
+  await fs.writeFile(
+    datedFilePath,
+    JSON.stringify(motsClesIA ?? {}, null, 2),
+    'utf8'
+  );
+  console.log(`💾 Fichier mots-clés sauvegardé: ${datedFilePath}`);
+
+  return motsClesIA;
+}
+
+// === Exécution principale ===
+(async () => {
+  const journalContent = await generateJournal();
+  await generateKeywords(journalContent);
+})();
