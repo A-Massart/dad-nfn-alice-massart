@@ -63,7 +63,7 @@ function extraireDateDuFichier(nomFichier) {
 // Fonction pour charger le journal et ses mots-clés
 async function chargerDernierJournal() {
   try {
-    const res = await fetch('/journal-de-bord/journal-de-bord__pages/journal-list.json');
+    const res = await fetch('../../journal-de-bord/journal-de-bord__pages/journal-list.json');
     if (!res.ok) throw new Error('Impossible de récupérer la liste des journaux');
 
     const fichiers = await res.json();
@@ -189,13 +189,6 @@ function colorierTexte(texte) {
   
   setTimeout(placerFormesSupMots, 100);
 }
-
-// File input listener - MODIFIÉ pour charger automatiquement les mots-clés
-document.getElementById('fileInput').addEventListener('change', function(event) {
-  const file = event.target.files[0];
-  if (!file) return;
-  chargerJournalEtMotsCles(file);
-});
 
 // ---------------------------
 // 2️⃣ Paper.js Setup

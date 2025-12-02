@@ -70,6 +70,9 @@ ${dataContent}
     await fs.writeFile(filePath, journalContent, 'utf-8');
     console.log(`Fichier généré : ${filePath} [OK]`);
 
+    // --- Mise à jour du journal-list.json ---
+    await mettreAJourJournalList(fileName);
+
     return journalContent;
   } catch (error) {
     console.error('Erreur lors de la génération du journal :', error);
@@ -151,3 +154,34 @@ Retourne uniquement le JSON.
   const journalContent = await generateJournal();
   await generateKeywords(journalContent);
 })();
+
+// === Fonction pour mettre à jour journal-list.json ===
+async function mettreAJourJournalList(nouveauFichier) {
+  try {
+    const folderPath = '../../JeSuisTerre/journal-de-bord/journal-de-bord__pages/';
+    const listFilePath = path.join(folderPath, 'journal-list.json');
+
+    let fichiers = [];
+    try {
+      const content = await fs.readFile(listFilePath, 'utf8');
+      fichiers = JSON.parse(content);
+    } catch (e) {
+      // fichier inexistant → on démarre vide
+      fichiers = [];
+    }
+
+    // Ajouter le nouveau fichier s'il n'existe pas déjà
+    if (!fichiers.includes(nouveauFichier)) {
+      fichiers.push(nouveauFichier);
+    }
+
+    // Trier par ordre croissant (ou décroissant si tu veux le plus récent en premier)
+    fichiers.sort(); // option : .sort().reverse() pour décroissant
+
+    // Sauvegarder
+    await fs.writeFile(listFilePath, JSON.stringify(fichiers, null, 2), 'utf8');
+    console.log(`✅ journal-list.json mis à jour avec ${nouveauFichier}`);
+  } catch (err) {
+    console.error('Erreur lors de la mise à jour de journal-list.json :', err);
+  }
+}
