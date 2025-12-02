@@ -471,8 +471,7 @@ function animerFormesSupMots(event) {
               {
                 const seg = item.shape.segments[i]; 
                 const base = item.shape.data.basePoints[i];
-                var vitesse_wave = 2;
-                const sinus = Math.sin(event.time * vitesse_wave + i);
+                const sinus = Math.sin(event.time * 2 + i);
                 seg.point.y = base.y + sinus * waveHeight;
               } 
               item.shape.smooth();
