@@ -346,7 +346,7 @@ function creerSnake(x, y, width) {
 }
 
 function creerCercles(x, y, radius) {
-  const radiusFixe = Math.random(3000 - 2000) + 2000;
+  const radiusFixe = Math.random() * 3000 - 2000 + 2000;
   const circlePaths = [];
   for (let i = 1; i <= 5; i++) {
     const c = new paper.Path.Circle({
