@@ -215,3 +215,15 @@ puis les [formes associées aux mots dans le texte](JeSuisTerre/JeSuisTerre__gen
 
 
 ### Lundi 01 décembre :
+- Ajout de l'API Global Warming pour la récupération des données climatiques.  
+[Dossier associé : chatbot__api-global-warming](JeSuisTerre/chatbot/chatbot__api-global-warming)  
+Et préparation du fichier data pour envoyer dans le prompt.
+Automatisation de la récupération des données tous les jours à 00h00 avec cron.
+
+- Ajout de l'API Openai pour la création des textes.  
+Gestion de l'export des réponses en fichier markdown dans le dossier du journal de bord.  
+Premiers tests sans l'API Key.
+
+- Mise à jour de la documentation, du README.md et de la Fiche Pédagogique.
+
+- Petite présentation de mon projet devant Lisa et Imane.
