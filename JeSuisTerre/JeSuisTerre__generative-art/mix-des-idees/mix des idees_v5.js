@@ -14,7 +14,7 @@ let formesSupMots = [];
 
 // Fonction pour charger les mots-clés depuis un fichier JSON
 async function chargerMotsClesParDate(dateStr) {
-    const cheminJSON = `../../journal-de-bord/mots-cles/${dateStr}_mots-cles.json`;
+  const cheminJSON = `/dad-nfn-alice-massart/JeSuisTerre/journal-de-bord/mots-cles/${dateStr}_mots-cles.json`;
   
   try {
     const response = await fetch(cheminJSON);
@@ -63,14 +63,14 @@ function extraireDateDuFichier(nomFichier) {
 // Fonction pour charger le journal et ses mots-clés
 async function chargerDernierJournal() {
   try {
-    const res = await fetch('../../journal-de-bord/journal-de-bord__pages/journal-list.json');
+    const res = await fetch('/dad-nfn-alice-massart/JeSuisTerre/journal-de-bord/journal-de-bord__pages/journal-list.json');
     if (!res.ok) throw new Error('Impossible de récupérer la liste des journaux');
 
     const fichiers = await res.json();
     if (!fichiers.length) return;
 
     const dernier = fichiers.sort().reverse()[0];
-    const contentRes = await fetch(`/journal-de-bord/journal-de-bord__pages/${dernier}`);
+    const contentRes = await fetch(`/dad-nfn-alice-massart/JeSuisTerre/journal-de-bord/journal-de-bord__pages/${dernier}`);
     const contenu = await contentRes.text();
 
     const dateStr = extraireDateDuFichier(dernier);
