@@ -1,49 +1,86 @@
 {
   "wave": [
-    "chaleur",
-    "mercure",
-    "frémis",
+    "température",
+    "cocon",
+    "air",
+    "fièvre",
+    "glaciers",
+    "souvenirs",
+    "niveau",
     "mer",
-    "environnement",
-    "paysages",
-    "écosystèmes",
-    "planète"
+    "rives",
+    "bouche"
   ],
   "circle": [
-    "danger"
+    "brûlure",
+    "poison",
+    "suffoquer",
+    "chaos",
+    "traître",
+    "courage",
+    "étiolement",
+    "vaciller",
+    "s'être",
+    "blessures"
   ],
   "mental": [
-    "lourdeur",
-    "résonnent",
-    "échos",
-    "tendance",
-    "cyclique",
-    "inéluctablement",
-    "choix"
+    "pression",
+    "chiffres",
+    "souffrances",
+    "atmosphère",
+    "angoisse",
+    "lirage",
+    "héritage",
+    "démons",
+    "manteau",
+    "recherche"
   ],
   "weird": [
-    "silencieuse",
+    "inhabituel",
+    "bruit",
+    "engourdissement",
+    "suffoquer",
+    "indifférence",
     "murmure",
-    "mélancolie",
-    "effacée"
+    "spirale",
+    "colère",
+    "invitation",
+    "éclat"
   ],
   "scratch": [
-    "pertes",
-    "blessures",
-    "héritage"
+    "perte",
+    "déclin",
+    "démons",
+    "écrasement",
+    "urgence",
+    "abîme",
+    "fatigue",
+    "poids",
+    "s'évanouir",
+    "traître"
   ],
   "snake": [
     "angoisse",
-    "désespoir",
-    "insupportables",
-    "tristesse",
-    "cris",
-    "larmes"
+    "desespoir",
+    "deuil",
+    "peur",
+    "vacillement",
+    "s'étioler",
+    "suffoquer",
+    "chaos",
+    "hérédité",
+    "silence"
   ],
   "pulse": [
-    "espoirs",
-    "fragiles",
-    "conscience",
-    "agir"
+    "espoir",
+    "humanité",
+    "vérité",
+    "changement",
+    "courage",
+    "joyaux",
+    "émerger",
+    "avenir",
+    "lueur",
+    "lueur"
   ]
 }
