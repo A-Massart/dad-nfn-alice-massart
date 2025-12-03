@@ -1,0 +1,86 @@
+{
+  "wave": [
+    "températures",
+    "chaleur",
+    "mer",
+    "glace",
+    "s'élèvent",
+    "montée",
+    "s'élever",
+    "pression",
+    "calmées",
+    "degrés"
+  ],
+  "circle": [
+    "douleur",
+    "brûlure",
+    "agonie",
+    "frappants",
+    "malaise",
+    "souffrance",
+    "sang",
+    "éprouvant",
+    "tourment",
+    "blessé"
+  ],
+  "mental": [
+    "angoisse",
+    "inquiétude",
+    "poids",
+    "tourmente",
+    "profond",
+    "pression",
+    "murmurent",
+    "promesses",
+    "bouleversements",
+    "éléments"
+  ],
+  "weird": [
+    "macabre",
+    "bizarre",
+    "étonnant",
+    "inhabituel",
+    "singulier",
+    "étrange",
+    "anormal",
+    "insolite",
+    "curieux",
+    "dérangeant"
+  ],
+  "scratch": [
+    "perte",
+    "souffrances",
+    "changement",
+    "déclin",
+    "fragilité",
+    "agonie",
+    "épuisés",
+    "intrusion",
+    "désenchantée",
+    "lutte"
+  ],
+  "snake": [
+    "angoisse",
+    "tourmenter",
+    "tristesse",
+    "éprouver",
+    "vague",
+    "mal-être",
+    "obscur",
+    "désespoir",
+    "blessure",
+    "échec"
+  ],
+  "pulse": [
+    "espoir",
+    "lumière",
+    "tendresse",
+    "nouveau",
+    "bel avenir",
+    "engagement",
+    "mains",
+    "changement",
+    "réveil",
+    "guérir"
+  ]
+}
