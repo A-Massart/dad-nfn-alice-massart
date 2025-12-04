@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="8" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="18" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="0" AUTOCHECK="1" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="28.346" MAJGRID="113.386" SHOWGRID="0" SHOWGUIDES="0" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="1 0 4 2 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="bleu clair" SPACE="RGB" R="159" G="221" B="253"/>
+        <COLOR NAME="gris foncé" SPACE="RGB" R="32" G="32" B="32"/>
+        <COLOR NAME="magenta" SPACE="RGB" R="255" G="102" B="255"/>
+        <COLOR NAME="orange" SPACE="RGB" R="205" G="145" B="122"/>
+        <COLOR NAME="vert" SPACE="RGB" R="108" G="152" B="88"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="code style" LINESPMode="0" LINESP="16" FONT="Google Sans Code Regular" FONTFEATURES="-clig,-liga" FCOLOR="White" LANGUAGE="fr"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Brother_MFC_J5335DW" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1-3" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Google Sans Code Regular"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Fira Sans Medium"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="7" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="626.930133858268" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1233.85926771654" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1840.7884015748" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2447.71753543307" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3054.64666929134" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3661.57580314961" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="6" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4268.50493700788" PAGEWIDTH="566.929133858268" PAGEHEIGHT="566.929133858268" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="7" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="100.001" YPOS="20.001" OwnPage="0" ItemID="1762592218" PTYPE="6" WIDTH="566.929133858268" HEIGHT="566.929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="gris foncé" PCOLOR2="Black" PLINEART="1" path="M0 0 L566.929 0 L566.929 566.929 L0 566.929 L0 0 Z" copath="M0 0 L566.929 0 L566.929 566.929 L0 566.929 L0 0 Z" OnMasterPage="Normal" gXpos="100.001" gYpos="195686111.339518" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="1262.20572440945" OwnPage="2" ItemID="1762718170" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-12-02"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 02/12/2025 10:00:03"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT CH=" { &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;12&quot;, &quot;day&quot;: &quot;1&quot;, &quot;cycle&quot;: &quot;427.09&quot;, &quot;trend&quot;: &quot;426.66&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="1520.15848031496" OwnPage="2" ItemID="1762678746" PTYPE="4" WIDTH="508.547313528991" HEIGHT="252.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 252.283 L0 252.283 L0 0 Z" copath="M0 0 L508.547 0 L508.547 252.283 L0 252.283 L0 0 Z" gXpos="130.036363636364" gYpos="1520.15848031496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT CH="  "/>
+                <ITEXT FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;mercure&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;frémis&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;mer&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;environnement&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="    &quot;paysages&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;écosystèmes&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;planète&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="bleu clair" CH=" &quot;circle&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;danger&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="bleu clair" CH=" &quot;mental&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;lourdeur&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;résonnent&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;échos&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;tendance&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="    &quot;cyclique&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;inéluctablement&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;choix&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="  "/>
+                <ITEXT FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;silencieuse&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;murmure&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;mélancolie&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;effacée&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="  "/>
+                <ITEXT FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;pertes&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;blessures&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;héritage&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="bleu clair" CH=" &quot;snake&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;angoisse&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;désespoir&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;insupportables&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;tristesse&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="   "/>
+                <ITEXT FCOLOR="bleu clair" CH=" &quot;cris&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;lar­mes&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="orange" CH="  "/>
+                <ITEXT FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FCOLOR="White" CH=":"/>
+                <ITEXT FCOLOR="orange" CH=" "/>
+                <ITEXT FCOLOR="magenta" CH="["/>
+                <ITEXT FCOLOR="orange" CH=" &quot;espoirs&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;fragiles&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;conscience&quot;"/>
+                <ITEXT FCOLOR="White" CH=","/>
+                <ITEXT FCOLOR="orange" CH=" &quot;agir&quot; "/>
+                <ITEXT FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="1869.13485826772" OwnPage="3" ItemID="1771165146" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-12-0"/>
+                <ITEXT CH="1"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 01/12/2025 "/>
+                <ITEXT CH="10:08:59"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style" LINESP="16"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" { &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;11&quot;, &quot;day&quot;: &quot;30&quot;, &quot;cycle&quot;: &quot;427.05&quot;, &quot;trend&quot;: &quot;426.66&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="2127.71220076258" OwnPage="3" ItemID="1770370010" PTYPE="4" WIDTH="508.547313528991" HEIGHT="251.658877977579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" copath="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" gXpos="130.036363636364" gYpos="1520.78306690431" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;température&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;glaces&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;mer&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;saisons&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Fira Sans Medium" FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;exc&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Fira Sans Medium" FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;lourdeur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;cycle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;contrôle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Fira Sans Medium" FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;murmures&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;discret&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;ombre&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;sympathie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;frontières&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Fira Sans Medium" FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="&quot;angoisse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiétude&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;désespérer&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;courage&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;réin­ven­ter&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="2476.06399212598" OwnPage="4" ItemID="1771119066" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-11-"/>
+                <ITEXT CH="30"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour:  30/11/2025"/>
+                <ITEXT CH=" 09:27:42"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style" LINESP="16"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" "/>
+                <ITEXT CH="{ &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;11&quot;, &quot;day&quot;: &quot;29&quot;, &quot;cycle&quot;: &quot;427.01&quot;, &quot;trend&quot;: &quot;426.65&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="2734.64133462085" OwnPage="4" ItemID="1771299290" PTYPE="4" WIDTH="508.547313528991" HEIGHT="251.658877977579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" copath="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" gXpos="130.036363636364" gYpos="1520.78306690431" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaud&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fondre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fièvre&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;brûl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;température&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lourd&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fatigué&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;faibl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fragil&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anomalie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anormal&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;silence&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;ombr&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;gémi&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;satur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;bless&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquièt&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiét&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiet&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;triste&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;las&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joy&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lucid&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;vivre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="3082.99312598425" OwnPage="5" ItemID="1771360218" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-"/>
+                <ITEXT CH="11-29"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 29/11/2025 "/>
+                <ITEXT CH="11:28:03"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style" LINESP="16"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" { &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;11&quot;, &quot;day&quot;: &quot;28&quot;, &quot;cycle&quot;: &quot;427.05&quot;, &quot;trend&quot;: &quot;426.66&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="3341.57046847911" OwnPage="5" ItemID="1771135450" PTYPE="4" WIDTH="508.547313528991" HEIGHT="251.658877977579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" copath="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" gXpos="130.036363636364" gYpos="1520.78306690431" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaud&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fondre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fièvre&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;brûl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;température&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lourd&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fatigué&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;faibl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fragil&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anomalie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anormal&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;silence&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;ombr&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;gémi&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;satur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;bless&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquièt&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiét&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiet&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;triste&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;las&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joy&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lucid&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;vivre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="4296.85139370079" OwnPage="7" ItemID="1771129818" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1869.13485826772" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-1"/>
+                <ITEXT CH="1-24"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 24/11/2025 "/>
+                <ITEXT CH="16:28:36"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style" LINESP="16"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" "/>
+                <ITEXT CH="{ &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;11&quot;, &quot;day&quot;: &quot;23&quot;, &quot;cycle&quot;: &quot;426.74&quot;, &quot;trend&quot;: &quot;426.62&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="4555.42873619565" OwnPage="7" ItemID="1771124186" PTYPE="4" WIDTH="508.547313528991" HEIGHT="251.658877977579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" copath="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" gXpos="130.036363636364" gYpos="2127.71220076258" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaud&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fondre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fièvre&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;brûl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;température&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lourd&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fatigué&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;faibl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fragil&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anomalie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anormal&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;silence&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;ombr&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;gémi&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;satur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;bless&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquièt&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiét&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiet&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;triste&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;las&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joy&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lucid&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;vivre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="655.276590551184" OwnPage="1" ItemID="1762454490" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-12-0"/>
+                <ITEXT CH="3"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 03/12/2025 22:00:03"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT CH=" { &quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;12&quot;, &quot;day&quot;: &quot;2&quot;, &quot;cycle&quot;: &quot;427.15&quot;, &quot;trend&quot;: &quot;426.67&quot; }"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="913.229346456694" OwnPage="1" ItemID="1762416090" PTYPE="4" WIDTH="508.547313528991" HEIGHT="271.346751369074" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 271.347 L0 271.347 L0 0 Z" copath="M0 0 L508.547 0 L508.547 271.347 L0 271.347 L0 0 Z" gXpos="130.036363636364" gYpos="1520.15848031496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="10" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;températures&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;mer&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;glace&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;s'élèvent&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;montée&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;s'élever&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;pression&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;calmées&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;degrés&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;douleur&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;brûlure&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;agonie&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;frappants&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;malaise&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;souffrance&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;sang&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;éprouvant&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;tourment&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;blessé&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;angoisse&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;inquiétude&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;tourmente&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;profond&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;pression&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;murmurent&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;promesses&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;bouleversements&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;éléments&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;macabre&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;bizarre&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;étonnant&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;inhabituel&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;singulier&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;étrange&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;anormal&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;insolite&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;curieux&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;dérangeant&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="gris foncé" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;perte&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;souffrances&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;changement&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;déclin&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;fragilité&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;agonie&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;épuisés&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;intrusion&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;désenchantée&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;lutte&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;angoisse&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;tourmenter&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;tristesse&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;éprouver&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;vague&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;mal-être&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;obscur&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;désespoir&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;blessure&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;échec&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;lumière&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;tendresse&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;nouveau&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;bel avenir&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;engagement&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" CH="    "/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH="&quot;mains&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;changement&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;réveil&quot;"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" &quot;guérir&quot; "/>
+                <ITEXT FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style"/>
+                <ITEXT FONTSIZE="10" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="48.347456692916" OwnPage="0" ItemID="1738362842" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="1262.20572440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-12-04"/>
+                <para/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 04/12/2025 22:00:11"/>
+                <para/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="============================================================"/>
+                <para/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" {&quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;12&quot;, &quot;day&quot;: &quot;3&quot;, &quot;cycle&quot;: &quot;427.18&quot;, &quot;trend&quot;: &quot;426.67&quot;"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température {&quot;time&quot;: &quot;2025.79&quot;,&quot;station&quot;: &quot;1.71&quot;,&quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane {&quot;date&quot;: &quot;2025.7&quot;,&quot;average&quot;: &quot;1927.61&quot;,&quot;trend&quot;: &quot;1938.14&quot;,&quot;averageUnc&quot;: &quot;-9.99&quot;,&quot;trendUnc&quot;: &quot;-9.99&quot; }"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote {&quot;date&quot;: &quot;2025.7&quot;,&quot;average&quot;: &quot;338.79&quot;,&quot;trend&quot;: &quot;338.92&quot;,&quot;averageUnc&quot;: &quot;-9.99&quot;,&quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer {&quot;date&quot;: &quot;202510&quot;,&quot;value&quot;: 23.28,&quot;anom&quot;: -2.44,&quot;monthlyMean&quot;: 25.72,&quot;description&quot;: {  &quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;,  &quot;basePeriod&quot;: &quot;1991-2020&quot;,  &quot;units&quot;: &quot;million square km&quot;,  &quot;annualMean&quot;: 22.76,  &quot;decadalTrend&quot;: -0.58,  &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="306.300212598426" OwnPage="0" ItemID="1736754650" PTYPE="4" WIDTH="508.547313528991" HEIGHT="290.715082564876" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 290.715 L0 290.715 L0 0 Z" copath="M0 0 L508.547 0 L508.547 290.715 L0 290.715 L0 0 Z" gXpos="130.036363636364" gYpos="1520.15848031496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;réchauffement&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;glace&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;tempêtes&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;sécheresses&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;niveau&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;océans&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;pollution&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;méthane&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;dioxydes&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;bruit&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;incendies&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;poison&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;chagrin&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;disparaît&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;souffre&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;blessure&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;chaos&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;essence&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;indifférence&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;accablant&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;angoisse&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;desespéré&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;stress&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;demande&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;technique&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;appel&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;murmure&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;entité&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;silencieuse&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;lointain&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;spectres&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;chaos&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;injustice&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;melodie&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;étincelle&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;essence&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;écho&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;cruelle&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;déroute&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;disparît&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;s'effiloche&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;chaos&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;souffre&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;s'effondre&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;impact&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;lutte&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;réalité&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;perte&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;chagrin&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;angoisse&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;s'évanouir&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;crains&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;suffocation&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;silence&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;cœur&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;discorde&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;appel&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="  "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=":"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="["/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;mains&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;nature&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;action&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;amour&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;transformation&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="orange" CH=" "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH="&quot;étincelle&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;murmure&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;vie&quot;"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="White" CH=","/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="orange" CH=" &quot;engagement&quot; "/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style"/>
+                <ITEXT FONT="Google Sans Code Regular" FONTSIZE="10" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347456692913" YPOS="3689.92225984252" OwnPage="6" ItemID="1771551194" PTYPE="4" WIDTH="510.236220472441" HEIGHT="246.614173228346" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" copath="M0 0 L510.236 0 L510.236 246.614 L0 246.614 L0 0 Z" gXpos="128.347456692913" gYpos="655.276590551182" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Données Global Warming - 2025-1"/>
+                <ITEXT CH="1-26"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="Dernière mise à jour: 26/11/2025 "/>
+                <ITEXT CH="15:29:51"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="======================================================================"/>
+                <para PARENT="code style" LINESP="16"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ CO"/>
+                <ITEXT FONT="Google Sans Code Regular" FEATURES="inherit subscript" FCOLOR="White" CH="2"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH=" "/>
+                <ITEXT CH="{&quot;year&quot;: &quot;2025&quot;, &quot;month&quot;: &quot;11&quot;, &quot;day&quot;: &quot;25&quot;, &quot;cycle&quot;: &quot;426.85&quot;, &quot;trend&quot;: &quot;426.63&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Température { &quot;time&quot;: &quot;2025.79&quot;, &quot;station&quot;: &quot;1.71&quot;, &quot;land&quot;: &quot;1.22&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Méthane { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;1927.61&quot;, &quot;trend&quot;: &quot;1938.14&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Protoxyde d'azote { &quot;date&quot;: &quot;2025.7&quot;, &quot;average&quot;: &quot;338.79&quot;, &quot;trend&quot;: &quot;338.92&quot;, &quot;averageUnc&quot;: &quot;-9.99&quot;, &quot;trendUnc&quot;: &quot;-9.99&quot;}"/>
+                <para PARENT="code style" LINESP="16"/>
+                <ITEXT FONT="Google Sans Code Regular" FCOLOR="White" CH="→ Niveau de la mer { &quot;date&quot;: &quot;202510&quot;, &quot;value&quot;: 23.28, &quot;anom&quot;: -2.44, &quot;monthlyMean&quot;: 25.72, &quot;description&quot;: {&quot;title&quot;: &quot;Global Sea Ice Extent (1979-2025)&quot;, &quot;basePeriod&quot;: &quot;1991-2020&quot;, &quot;units&quot;: &quot;million square km&quot;, &quot;annualMean&quot;: 22.76, &quot;decadalTrend&quot;: -0.58, &quot;missing&quot;: -9999}}"/>
+                <para PARENT="code style" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.036363636364" YPOS="3948.49960233738" OwnPage="6" ItemID="1770340314" PTYPE="4" WIDTH="508.547313528991" HEIGHT="251.658877977579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" copath="M0 0 L508.547 0 L508.547 251.659 L0 251.659 L0 0 Z" gXpos="130.036363636364" gYpos="913.853933046042" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" FCOLOR="vert" CH="// mots-­clefs"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="{"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;wave&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaleur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;chaud&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fondre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;circle&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fièvre&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;brûl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;température&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;mental&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lourd&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fatigué&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;poids&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;faibl&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;fragil&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;weird&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anomalie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;anormal&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;silence&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;ombr&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;scratch&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;gémi&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;satur&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  &quot;bless&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;snake&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquièt&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiét&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;inquiet&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;triste&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;las&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH="  "/>
+                <ITEXT FONTSIZE="12" FCOLOR="bleu clair" CH="&quot;pulse&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=":"/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="["/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;espoir&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joie&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;joy&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;lucid&quot;"/>
+                <ITEXT FONTSIZE="12" FCOLOR="White" CH=","/>
+                <ITEXT FONTSIZE="12" FCOLOR="orange" CH=" &quot;vivre&quot; "/>
+                <ITEXT FONTSIZE="12" FCOLOR="magenta" CH="]"/>
+                <para PARENT="code style" LINESP="19"/>
+                <ITEXT FONTSIZE="12" FCOLOR="Yellow" CH="}"/>
+                <trail PARENT="code style" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

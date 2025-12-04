@@ -1,0 +1,86 @@
+{
+  "wave": [
+    "réchauffement",
+    "glace",
+    "tempêtes",
+    "sécheresses",
+    "niveau",
+    "océans",
+    "pollution",
+    "méthane",
+    "dioxydes",
+    "bruit"
+  ],
+  "circle": [
+    "incendies",
+    "poison",
+    "poids",
+    "chagrin",
+    "disparaît",
+    "souffre",
+    "blessure",
+    "chaos",
+    "essence",
+    "indifférence"
+  ],
+  "mental": [
+    "accablant",
+    "angoisse",
+    "desespéré",
+    "stress",
+    "demande",
+    "technique",
+    "poids",
+    "appel",
+    "murmure",
+    "entité"
+  ],
+  "weird": [
+    "silencieuse",
+    "lointain",
+    "spectres",
+    "chaos",
+    "injustice",
+    "melodie",
+    "étincelle",
+    "essence",
+    "écho",
+    "cruelle"
+  ],
+  "scratch": [
+    "déroute",
+    "disparît",
+    "s'effiloche",
+    "chaos",
+    "souffre",
+    "s'effondre",
+    "impact",
+    "lutte",
+    "réalité",
+    "perte"
+  ],
+  "snake": [
+    "chagrin",
+    "angoisse",
+    "s'évanouir",
+    "crains",
+    "suffocation",
+    "poids",
+    "silence",
+    "cœur",
+    "discorde",
+    "appel"
+  ],
+  "pulse": [
+    "espoir",
+    "mains",
+    "nature",
+    "action",
+    "amour",
+    "transformation",
+    "étincelle",
+    "murmure",
+    "vie",
+    "engagement"
+  ]
+}
