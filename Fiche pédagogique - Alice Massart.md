@@ -232,3 +232,16 @@ Premiers tests sans l'API Key.
 - Finalisation de la configuration de l'API Openai et tests de génération
 
 - Automatisation du processus de création des textes et de choix des mots-clés pour associer les formes.
+
+### Vendredi 05 décembre :
+- Accrochage :
+  - Répartition des espaces
+  - Réalisation du plan concret de l'installation que j'aimerais faire  
+  ![croquis de l'installation](documentation/Semaine du 01 décembre/vendredi 05 déc/rendu/croquis-installation.png)
+  - Récupération du matériel à la régie
+
+- Rendu :
+
+  - Commentaires :
+    - Les carrés noirs ça fait bizarre. -> Je suis d'accord, la régie n'avait finalement pas de Tape noir je n'ai pas pu faire la ligne qui aurait rappelé le noir des carré et qui aurait été plus cohérent...
+    - Pourquoi du code ? -> J'aime montrer le processus qui a amené au résultat mais ce n'est peut-être pas nécessaire, à réfléchir.
