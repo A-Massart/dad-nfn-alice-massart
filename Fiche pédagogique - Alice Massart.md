@@ -34,16 +34,22 @@ Je suis plutôt à l'aise avec les outils simples de GitHub notamment le github 
 ![Images git et versionning](documentation/img_fiche-pédagogique/git-et-versionning.png)
 
 **INTERACTIVITÉ ET RENDU TEMPS RÉEL**  
-Les codes créatifs python et javascript analysent interagissent en temps réel avec le texte quotidien de l'IA.
-Ils analysent les textes pour en tirer des mots clés.
-Le code python transforme ces mots-clés en formes tandis que le code javascript modifie la typographie de ces mots.
+Le code créatif javascript analyse et interagit en temps réel avec le texte quotidien de l'IA.
+Il analyse les textes pour en tirer des mots clés.
+mix-des-idees.js transforme ces mots-clés en formes et modifie la typographie de ces mots.
 
 **GRAPHISME ET DESIGN D'INTERFACE**
+J'ai effectué un travail de recherche graphique.
+J'ai également produit plusieurs pages html :
+- [mix-des-idees/index.html](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/index.html) est la page principale visible par défaut par tout utilisateur de mon site.
+- [mix-des-idees/mix-des-idees.html](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/mix-des-idees.html) est une page secondaire que j'utilise pour décider manuellement de la page de journal à afficher.
 
 **INSTALLATION ET MISE EN ESPACE**
+J'ai choisi une disposition linéaire afin de garder (de façon tout de même abstraite) l'idée de la chronologie de mon projet. Ainsi une bande noire traversera mes différents écrans. J'ai choisi des tablettes pour le support numérique afin d'établir moi-même la répartition spatiale des écrans.   
 
-**PRÉSENTATION ET ARGUMENTATION**
-
+![croquis d'installation](<documentation/Semaine du 01 décembre/vendredi 05 déc/rendu/croquis-installation.png>)
+**PRÉSENTATION ET ARGUMENTATION**  
+Mon projet 
 
 
 ## PROJETS
