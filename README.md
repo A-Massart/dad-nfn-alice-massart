@@ -1,5 +1,8 @@
 # Journal de bord - TERRE
 
+[Fiche pédagogique](Fiche%20pédagogique%20-%20Alice%20Massart.md)
+
+Mon projet => https://a-massart.github.io/dad-nfn-alice-massart/JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/index.html
 
 
 Ce projet consiste à utiliser une intelligence artificielle pour personnifier la planète Terre et lui faire écrire un journal de bord. À partir d’actualités et d’informations sur le changement climatique, l’IA rédige des entrées à la première personne, exprimant ce que la Terre pourrait “ressentir”. L’objectif est de sensibiliser aux enjeux climatiques à travers une narration immersive et créative, en donnant une voix symbolique à la planète pour rendre l’information plus vivante et accessible.
