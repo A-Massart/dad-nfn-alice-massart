@@ -1,6 +1,6 @@
-Données Global Warming - 2025-12-09
+Données Global Warming - 2025-12-13
 
-Dernière mise à jour: 09/12/2025 22:00:17
+Dernière mise à jour: 13/12/2025 13:15:19
 
 ============================================================
 
@@ -10,9 +10,9 @@ CO₂
 {
   "year": "2025",
   "month": "12",
-  "day": "8",
-  "cycle": "427.42",
-  "trend": "426.73"
+  "day": "12",
+  "cycle": "427.59",
+  "trend": "426.75"
 }
 
 
@@ -53,6 +53,19 @@ Protoxyde d'azote
 Niveau de la mer
 ----------------
 
-⚠️ Erreur: Erreur de parsing JSON: Unexpected token 'A', "An error o"... is not valid JSON
+{
+  "date": "202511",
+  "value": 23.35,
+  "anom": -2.66,
+  "monthlyMean": 26.01,
+  "description": {
+    "title": "Global Sea Ice Extent (1979-2025)",
+    "basePeriod": "1991-2020",
+    "units": "million square km",
+    "annualMean": 22.76,
+    "decadalTrend": -0.57,
+    "missing": -9999
+  }
+}
 
 

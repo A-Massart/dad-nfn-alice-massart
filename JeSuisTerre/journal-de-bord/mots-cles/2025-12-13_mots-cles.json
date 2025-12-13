@@ -1,0 +1,86 @@
+{
+  "wave": [
+    "souffle",
+    "chaud",
+    "température",
+    "augmentation",
+    "fondent",
+    "mers",
+    "frisson",
+    "élévation",
+    "changement",
+    "équilibre"
+  ],
+  "circle": [
+    "brûlure",
+    "dague",
+    "blessures",
+    "poison",
+    "perte",
+    "chiffre",
+    "coeur",
+    "souffrance",
+    "plante",
+    "chuchoté"
+  ],
+  "mental": [
+    "mélancolie",
+    "pèse",
+    "angoisse",
+    "nerfs",
+    "émoi",
+    "précipice",
+    "futur",
+    "mer",
+    "chiffres",
+    "chant"
+  ],
+  "weird": [
+    "silencieuses",
+    "funeste",
+    "invisiblement",
+    "industrialisation",
+    "mutations",
+    "strident",
+    "vibrant",
+    "humains",
+    "aujourd'hui",
+    "tomorrow"
+  ],
+  "scratch": [
+    "démontrer",
+    "blessures",
+    "profond",
+    "plante",
+    "morsure",
+    "perte",
+    "souffrance",
+    "chiffre",
+    "acute",
+    "nerfs"
+  ],
+  "snake": [
+    "melancolie",
+    "désespoir",
+    "menace",
+    "soulèvements",
+    "changement",
+    "émoi",
+    "indifférence",
+    "crainte",
+    "tristesse",
+    "polaire"
+  ],
+  "pulse": [
+    "espérance",
+    "harmonie",
+    "battant",
+    "chant",
+    "cœur",
+    "vie",
+    "éveilleront",
+    "réparé",
+    "demain",
+    "réveil"
+  ]
+}

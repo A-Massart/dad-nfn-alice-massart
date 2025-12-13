@@ -24,13 +24,22 @@ function fetchData(url) {
                 data += chunk;
             });
             
+            // res.on('end', () => {
+            //     try {
+            //         resolve(JSON.parse(data));
+            //     } catch (e) {
+            //         reject(new Error(`Erreur de parsing JSON: ${e.message}`));
+            //     }
+            // });
+
             res.on('end', () => {
-                try {
-                    resolve(JSON.parse(data));
-                } catch (e) {
-                    reject(new Error(`Erreur de parsing JSON: ${e.message}`));
+                if (!data.trim().startsWith('{')) {
+                    reject(new Error(`Réponse non-JSON: ${data.slice(0, 100)}`));
+                    return;
                 }
+                resolve(JSON.parse(data));
             });
+
         }).on('error', (err) => {
             reject(err);
         });

@@ -2,9 +2,9 @@
   "CO₂": {
     "year": "2025",
     "month": "12",
-    "day": "8",
-    "cycle": "427.42",
-    "trend": "426.73"
+    "day": "12",
+    "cycle": "427.59",
+    "trend": "426.75"
   },
   "Température": {
     "time": "2025.88",
@@ -26,6 +26,17 @@
     "trendUnc": "-9.99"
   },
   "Niveau de la mer": {
-    "error": "Erreur de parsing JSON: Unexpected token 'A', \"An error o\"... is not valid JSON"
+    "date": "202511",
+    "value": 23.35,
+    "anom": -2.66,
+    "monthlyMean": 26.01,
+    "description": {
+      "title": "Global Sea Ice Extent (1979-2025)",
+      "basePeriod": "1991-2020",
+      "units": "million square km",
+      "annualMean": 22.76,
+      "decadalTrend": -0.57,
+      "missing": -9999
+    }
   }
 }
