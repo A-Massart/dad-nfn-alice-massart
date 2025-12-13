@@ -1,4 +1,5 @@
 #!/bin/bash
+source ~/.zshrc
 PATH=/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 # Script d'exécution quotidienne - Global Warming API

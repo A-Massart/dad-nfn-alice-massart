@@ -49,7 +49,7 @@ J'ai choisi une disposition linéaire afin de garder (de façon tout de même ab
 
 ![croquis d'installation](<documentation/Semaine du 01 décembre/vendredi 05 déc/rendu/croquis-installation.png>)
 **PRÉSENTATION ET ARGUMENTATION**  
-Mon projet 
+Mon projet se base sur les données climatiques quotidiennes de l'API global.warming.org et transforme ces données en texte via l'API Openai et en visuel via un code que j'ai créé. Dans ce texte l'IA va interpréter la planète Terre en transemttant ces ressentis vis à vis des changements climatiques visibles. Dans ce texte, des mots-clés seront mis en avant par leur pertinence ou leur sens par une sélection en 7 catégories : rapport à la chaleur, rapport à la brûlure, charge mentale, Inhabituel : "weird", Blessure / perte de contrôle : "scratch", Angoisse / stress / tristesse : "snake", Bonheur / espoir.
 
 
 ## PROJETS
