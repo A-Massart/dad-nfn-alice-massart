@@ -1,6 +1,6 @@
 # Fiche Pédagogique
 
-## Informations Étudiant
+## Informations Étudiante
 
 - **Nom :** Massart
 
@@ -31,6 +31,7 @@ et en Javascript pour interagir avec un texte et le modifier en direct : [JeSuis
 
 **GIT ET VERSIONNING**  
 Je suis plutôt à l'aise avec les outils simples de GitHub notamment le github pages, les codespaces, github desktop et les commits.
+
 ![Images git et versionning](documentation/img_fiche-pédagogique/git-et-versionning.png)
 
 **INTERACTIVITÉ ET RENDU TEMPS RÉEL**  
@@ -38,8 +39,12 @@ Le code créatif javascript analyse et interagit en temps réel avec le texte qu
 Il analyse les textes pour en tirer des mots clés.
 mix-des-idees.js transforme ces mots-clés en formes et modifie la typographie de ces mots.
 
+J'ai mis en place github pages sur mon projet pour le visuel quotidien soit accessible en direct :
+[Je suis Terre et...](https://a-massart.github.io/dad-nfn-alice-massart/JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/index.html)
+
 **GRAPHISME ET DESIGN D'INTERFACE**  
-J'ai effectué un travail de recherche graphique.
+J'ai effectué un travail de recherche graphique :
+[mardi 25 nov/essais-visuels](documentation/Semaine%20du%2024%20novembre/mardi%2025%20nov/essais-visuels/)  
 J'ai également produit plusieurs pages html :
 - [mix-des-idees/index.html](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/index.html) est la page principale visible par défaut par tout utilisateur de mon site.
 - [mix-des-idees/mix-des-idees.html](JeSuisTerre/JeSuisTerre__generative-art/mix-des-idees/mix-des-idees.html) est une page secondaire que j'utilise pour décider manuellement de la page de journal à afficher.
@@ -47,9 +52,15 @@ J'ai également produit plusieurs pages html :
 **INSTALLATION ET MISE EN ESPACE**  
 J'ai choisi une disposition linéaire afin de garder (de façon tout de même abstraite) l'idée de la chronologie de mon projet. Ainsi une bande noire traversera mes différents écrans. J'ai choisi des tablettes pour le support numérique afin d'établir moi-même la répartition spatiale des écrans.   
 
-![croquis d'installation](<documentation/Semaine du 01 décembre/vendredi 05 déc/rendu/croquis-installation.png>)
+![croquis d'installation](<documentation/Semaine du 01 décembre/vendredi 05 déc/rendu/croquis-installation.png>)  
+
 **PRÉSENTATION ET ARGUMENTATION**  
-Mon projet se base sur les données climatiques quotidiennes de l'API global.warming.org et transforme ces données en texte via l'API Openai et en visuel via un code que j'ai créé. Dans ce texte l'IA va interpréter la planète Terre en transemttant ces ressentis vis à vis des changements climatiques visibles. Dans ce texte, des mots-clés seront mis en avant par leur pertinence ou leur sens par une sélection en 7 catégories : rapport à la chaleur, rapport à la brûlure, charge mentale, Inhabituel : "weird", Blessure / perte de contrôle : "scratch", Angoisse / stress / tristesse : "snake", Bonheur / espoir.
+Mon projet se base sur les données climatiques quotidiennes de l'API global.warming.org et transforme ces données en texte via l'API Openai et en visuel via un code que j'ai créé. Dans ce texte l'IA va interpréter la planète Terre en transemttant ces ressentis vis à vis des changements climatiques visibles. Dans ce texte, des mots-clés seront mis en avant par leur pertinence ou leur sens avec une sélection en 7 catégories : rapport à la chaleur, rapport à la brûlure, charge mentale, inhabituel, blessure / perte de contrôle, angoisse / stress / tristesse, bonheur / espoir. À chaque catégorie est associée une forme et une typographie qui illsutrent l'intention du texte. Par exemple, les mots en rapport avec la température élevée auront des couleurs chaudes et des formes arrondies ; les mots porteurs de positivisme, comme espoir ou joie, auront des grandes lignes jaunes qui dominent presque toutes les autres formes. J'apprécie beaucoup cette idée car un simple petit mot d'espoir peut aider à endurer et prend le dessus sur les autres émotions ou ressentis négatifs.
+J'ai choisi d'automatiser complètement mon projet : de la récupération de données au visuel final en passant par la création des textes et la catégorisation des mots-clés. Ma seule intervention est le prompt pour guider l'IA dans toutes ces démarches et être cohérente avec le projet.
+
+P.S. : J'ai remarqué dans mon choix de mots-clés et le choix de mots-clés de l'IA que cette dernière est beaucoup plus positive que moi et choisit bien plus de mots-clés de la catégorie bonheur / espoir (moi : en moyenne 1 ou 2, IA : en moyenne 4 ou 5).
+
+Pour aller plus loin, j'aimerais ajouter, en plus des données climatiques, l'actualité mondiale à ce sujet afin d'avoir le ressenti de la Terre vis-à-vis des actions humaines et non seulement des données climatiques qui varient sans explication.
 
 
 ## PROJETS
@@ -67,14 +78,14 @@ Ce projet consiste à utiliser une intelligence artificielle pour personnifier l
 - **Thématiques que vous souhaitez explorer :**
 Sciences par le design, Actualité climatique
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
-Elle permettrait de rendre compte de l’actualité climatique tout en abordant des notions scientifiques.
+Elle permettrait de rendre compte de l’actualité climatique tout en abordant des notions scientifiques et de programmation.
 
 ## Outils et Techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
-API pour les données climatiques, IA textuelle programmée pour le projet, pour le rendu visuel : html css js ou python ou godot.
+API pour les données climatiques, IA textuelle programmée pour le projet, pour le rendu visuel : html css js ou python.
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
-Programmation d’IA et récupération de données grâce à une API
+Programmation d’IA et récupération de données grâce à une API.
 
 
 ## Références Artistiques
@@ -108,6 +119,8 @@ Naya m'a donné des conseils sur l'esthétique de mes visuels. En cours de dessi
 En discutant avec Suyeon j'ai vu que son labyrinthe dans Unity n'était pas en un seul morceau mais en dizaines et dizaines de morceaux ce qui ne devait pas être pratique du tout pour travailler ! En me renseignant un peu de mon côté sur Unity je suis tombée sur un lien que je lui ai envoyé pour faire un export propre de son blender.  
 [Aide pour Suyeon](documentation/img_fiche-pédagogique/aide-suyeon.png)
 
+Pendant l'installation, Adèle et Armand m'ont été d'une grande aide ! Merci beaucoup à eux, je pense que je n'aurais jamais fini à l'heure sinon <3
+
 
 ### Contributions aux ressources
 
@@ -123,21 +136,20 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - **Étape 1 :**
     - [X] définir les APIs utilisées
     - [X] le langage de programmation
-    - ~~[ ] le prompt pour les test~~
     - [X] le premier prompt définitif.
     - [X] réfléchir à la mise en forme du journal de bord et du repository.
     - [X] créer une base code pour y correspondre.
   
   - **Étape 2 :**
-    - [ ] programmer les APIs.
+    - [X] programmer les APIs.
     - [X] faire des tests et obtenir un résultat de page de journal de bord satisfaisant.
-    - [ ] faire des tests avec plusieurs prompts différents.
-    - [ ] réfléchir au rendu et à l'argumentation du projet.
+    - [X] faire des tests avec plusieurs prompts différents.
+    - [X] réfléchir au rendu et à l'argumentation du projet.
 
   
   - **Étape 3 :**
-    - [ ] finir les derniers détails.
-    - [ ] préparer le rendu et l'accrochage.
+    - [X] finir les derniers détails.
+    - [X] préparer le rendu et l'accrochage.
 
 
 
@@ -146,6 +158,8 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 <span style="color:grey">//Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ?</span>
 
 Je ne sais pas du tout comment programmer une API IA et j'y pense beaucoup. J'ai à la fois très hâte d'apprendre et en même temps lorsque je me lance dans des tutoriels ou autre, je me rends compte que je ne comprends absolument rien... Je persévère 💪
+
+Update : Finalement ça a été, je pensais que ce serait beaucoup plus compliqué pour les APIs ! <(¯˘¯)>
 
 
 # Journal de bord

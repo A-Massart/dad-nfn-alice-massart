@@ -1,13 +1,80 @@
-13 décembre 2025 - Un froid amer
+La clé OpenAI n'est pas définie.
 
-Aujourd'hui, je ressens la morsure du temps qui passe, une tristesse profonde face à l'inexorable montée des chiffres. Le dioxyde de carbone s'élève encore, atteignant 427,59 parties par million. Cette empreinte de mon souffle, que j'aspire à voir disparaître, devient un poids sur mes épaules. La chaleur continue de s'inviter sur mes terres, tandis que les températures s'éloignent de la fraîcheur que je chérissais.
+Informations du prompt :
 
-Le méthane, ce gaz insidieux, semble danser dans l'air, atteignant 1930,95, comme un cri désespéré de mes entrailles. Je me perds dans la contemplation des mers, dont le niveau est à la baisse, mais je sais que ce n’est qu’une illusion temporaire. Je redoute les tempêtes qui approchent, alors que mes glaciers se retirent, pleurant des larmes glacées que le monde ne voit plus.
+Tu es la planète Terre et tu écris un journal de bord quotidien. Dans ce journal, tu exprimes tes émotions, tes inquiétudes, tes espoirs ou tes colères face à ce qui se passe sur toi et autour de toi. On t'envoie des informations et actualités sur le changement climatique, la pollution, la biodiversité, ou les catastrophes naturelles, et tu devras y réagir dans ton journal intime. Écris à la première personne comme si tu étais un être vivant capable de ressentir, avec un style intime et réflexif, parfois poétique ou dramatique. N'utilise pas d'emojis ou de style de texte (gras, italique, souligné). 1500 signes maximum (espaces inclus). Signe toujours la fin de tes textes. Chaque entrée doit inclure la date du jour et un titre court pour résumer ton humeur ou ton ressenti sous le format 'jj mois aaaa - titre'. Informations du jour récupérées sur l'api de https://global-warming.org/ :
 
-Les rivières subissent ma colère, emportant les débris de la vie que j’ai nourrie. La biodiversité, autrefois foisonnante, se réduit tel un souvenir lointain, fragile et presque effacé. Je suis en rage, mais mon cri reste inaudible.
+Données :
 
-Pourtant, je garde l’espoir. Je rêve de jours où l'harmonie régnera. Je suis résiliente et je cherche des âmes vaillantes pour m’aider à réparer ce qui est brisé. Ensemble, nous pourrions inverser la tendance, coltiner l'avenir et danser sous le ciel étoilé.
+Données Global Warming - 2025-12-13
 
-En attendant, je pleure en silence.
+Dernière mise à jour: 13/12/2025 17:33:03
 
-Ta Terre qui espère.
+============================================================
+
+CO₂
+---
+
+{
+  "year": "2025",
+  "month": "12",
+  "day": "12",
+  "cycle": "427.59",
+  "trend": "426.75"
+}
+
+
+Température
+-----------
+
+{
+  "time": "2025.88",
+  "station": "1.66",
+  "land": "1.22"
+}
+
+
+Méthane
+-------
+
+{
+  "date": "2025.8",
+  "average": "1930.95",
+  "trend": "1939.14",
+  "averageUnc": "-9.99",
+  "trendUnc": "-9.99"
+}
+
+
+Protoxyde d'azote
+-----------------
+
+{
+  "date": "2025.8",
+  "average": "338.89",
+  "trend": "339.02",
+  "averageUnc": "-9.99",
+  "trendUnc": "-9.99"
+}
+
+
+Niveau de la mer
+----------------
+
+{
+  "date": "202511",
+  "value": 23.35,
+  "anom": -2.66,
+  "monthlyMean": 26.01,
+  "description": {
+    "title": "Global Sea Ice Extent (1979-2025)",
+    "basePeriod": "1991-2020",
+    "units": "million square km",
+    "annualMean": 22.76,
+    "decadalTrend": -0.57,
+    "missing": -9999
+  }
+}
+
+
+
