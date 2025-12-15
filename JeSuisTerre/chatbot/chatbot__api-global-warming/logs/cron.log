@@ -1,0 +1,19 @@
+🌍 Récupération des données Global Warming API...
+
+📡 Récupération de CO₂...
+✅ CO₂ - Succès
+📡 Récupération de Température...
+✅ Température - Succès
+📡 Récupération de Méthane...
+✅ Méthane - Succès
+📡 Récupération de Protoxyde d'azote...
+✅ Protoxyde d'azote - Succès
+📡 Récupération de Niveau de la mer...
+✅ Niveau de la mer - Succès
+
+📊 Résultat: 5/5 endpoints récupérés
+
+💾 Fichier sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.txt
+💾 Fichier JSON sauvegardé: /Users/alice/Documents/GitHub/dad-nfn-alice-massart/JeSuisTerre/chatbot/chatbot__api-global-warming/data/global-warming-data.json
+
+✨ Terminé en 2.84s
