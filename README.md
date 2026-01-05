@@ -43,3 +43,5 @@ Envoie automatique de la requête avec l'API Openai.
 ```
 
 Et les réglages sur l'ordinateur sont effectués de façon à faire fonctionner cron.
+
+(Cette partie devra être modifiée car il y a encore quelques bugs)
