@@ -1,0 +1,66 @@
+{
+  "wave": [
+    "températures",
+    "s'élèvent",
+    "souffle",
+    "vent",
+    "air",
+    "vivifiant",
+    "marée",
+    "mer"
+  ],
+  "circle": [
+    "délicates",
+    "lutte",
+    "blessures",
+    "mélancolie",
+    "silence",
+    "chagrin",
+    "vulnérabilité"
+  ],
+  "mental": [
+    "poids",
+    "cycle",
+    "instabilité",
+    "désordre",
+    "combat",
+    "spectatrice",
+    "menace"
+  ],
+  "weird": [
+    "stratosphériques",
+    "méthane",
+    "protoxyde",
+    "chaotique",
+    "intra-species",
+    "bouleversée",
+    "fragile"
+  ],
+  "scratch": [
+    "mélancolie",
+    "lourd",
+    "d'herbe",
+    "glaces",
+    "silence",
+    "chagrin",
+    "vulnérabilité"
+  ],
+  "snake": [
+    "angoisse",
+    "tristesse",
+    "sans fin",
+    "chagrin",
+    "mélancolie",
+    "soleil",
+    "combat"
+  ],
+  "pulse": [
+    "espoir",
+    "prendra",
+    "amour",
+    "humaines",
+    "grandisse",
+    "lenfumains",
+    "meilleurs"
+  ]
+}
