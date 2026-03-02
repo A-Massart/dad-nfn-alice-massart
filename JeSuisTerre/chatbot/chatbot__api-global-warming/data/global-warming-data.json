@@ -1,41 +1,29 @@
 {
   "CO₂": {
-    "year": "2026",
-    "month": "1",
-    "day": "4",
-    "cycle": "428.27",
-    "trend": "426.96"
+    "error": "Réponse non-JSON: An error occurred with your deployment\n\nFUNCTION_INVOCATION_TIMEOUT\n\ncdg1::bw26s-1772456985048-d5e1f"
   },
   "Température": {
-    "time": "2025.88",
-    "station": "1.66",
-    "land": "1.22"
+    "time": "2026.04",
+    "station": "1.35",
+    "land": "1.08"
   },
   "Méthane": {
-    "date": "2025.8",
-    "average": "1930.95",
-    "trend": "1939.14",
-    "averageUnc": "-9.99",
-    "trendUnc": "-9.99"
+    "error": "Réponse non-JSON: An error occurred with your deployment\n\nFUNCTION_INVOCATION_TIMEOUT\n\ncdg1::s8bn7-1772456995862-74ee8"
   },
   "Protoxyde d'azote": {
-    "date": "2025.8",
-    "average": "338.89",
-    "trend": "339.02",
-    "averageUnc": "-9.99",
-    "trendUnc": "-9.99"
+    "error": "Réponse non-JSON: An error occurred with your deployment\n\nFUNCTION_INVOCATION_TIMEOUT\n\ncdg1::s8bn7-1772457006252-42ec0"
   },
   "Niveau de la mer": {
-    "date": "202511",
-    "value": 23.35,
-    "anom": -2.66,
-    "monthlyMean": 26.01,
+    "date": "202601",
+    "value": 17.6,
+    "anom": -1.42,
+    "monthlyMean": 19.02,
     "description": {
-      "title": "Global Sea Ice Extent (1979-2025)",
+      "title": "Global Sea Ice Extent (1979-2026)",
       "basePeriod": "1991-2020",
       "units": "million square km",
       "annualMean": 22.76,
-      "decadalTrend": -0.57,
+      "decadalTrend": -0.59,
       "missing": -9999
     }
   }
