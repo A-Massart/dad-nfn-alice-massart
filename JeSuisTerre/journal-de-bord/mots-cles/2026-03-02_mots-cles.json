@@ -1,0 +1,86 @@
+{
+  "wave": [
+    "plages",
+    "rivages",
+    "collines",
+    "glaces",
+    "mer",
+    "souffle",
+    "nature",
+    "respire",
+    "écosystème",
+    "équilibre"
+  ],
+  "circle": [
+    "brûlure",
+    "crie",
+    "absence",
+    "disparue",
+    "frémis",
+    "désastre",
+    "risque",
+    "s'épuise",
+    "souffle",
+    "s’étire"
+  ],
+  "mental": [
+    "angoisse",
+    "inquiétude",
+    "fragilités",
+    "poids",
+    "chargé",
+    "méfiance",
+    "émotion",
+    "souffle",
+    "théâtre",
+    "échos"
+  ],
+  "weird": [
+    "ombre",
+    "étoile",
+    "silence",
+    "éternels",
+    "intimité",
+    "uniques",
+    "mystères",
+    "lourd",
+    "invisibles",
+    "crispation"
+  ],
+  "scratch": [
+    "perte",
+    "disparue",
+    "fragilité",
+    "risque",
+    "blessure",
+    "désastre",
+    "érodée",
+    "larmes",
+    "déclin",
+    "absence"
+  ],
+  "snake": [
+    "angoisse",
+    "inquiétude",
+    "crie",
+    "souffrance",
+    "mélancolie",
+    "frémis",
+    "poids",
+    "désastre",
+    "pesant",
+    "obscurité"
+  ],
+  "pulse": [
+    "espoir",
+    "lueur",
+    "aimer",
+    "réveiller",
+    "s'unissent",
+    "destins",
+    "réussir",
+    "harmonie",
+    "mélodie",
+    "cœurs"
+  ]
+}
