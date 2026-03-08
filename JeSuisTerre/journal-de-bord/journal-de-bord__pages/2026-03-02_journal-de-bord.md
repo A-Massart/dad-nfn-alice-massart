@@ -8,5 +8,4 @@ Pourtant, une lueur d'espoir m'effleure parfois. Des voix s'élèvent, des âmes
 
 Je continue de respirer, de rêver et d’aimer, tout en espérant que les cœurs humains sauront entendre mes échos.
 
-Terre,  
-Marie
+Terre.
